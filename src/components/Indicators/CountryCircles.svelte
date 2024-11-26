@@ -131,7 +131,7 @@
             .attr("y", -circleRadius * 0.7)
             .attr("width", circleRadius * 1.4)
             .attr("height", circleRadius * 1.4)
-            .attr("xlink:href", d => `/images/${d.iso2}.svg`)
+            .attr("xlink:href", d => `${import.meta.env.BASE_URL}images/${d.iso2}.svg`)
             .attr("preserveAspectRatio", "xMidYMid meet")
             .style("opacity", 0)
             .transition()
@@ -153,7 +153,7 @@
                 <div class="divider"></div>
                 
                 <div class="section">
-                    <img src="/images/${d.iso2}.svg" alt="${d.country}" class="country-flag" />
+                    <img src="${import.meta.env.BASE_URL}images/${d.iso2}.svg" alt="${d.country}" class="country-flag" />
                 </div>
                 <div class="divider"></div>
                 

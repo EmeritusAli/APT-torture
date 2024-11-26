@@ -1,0 +1,1569 @@
+Region,Country,Indicator,Input,Date,iso2
+Americas,Antigua and Barbuda,Ratification of the UN Convention against Torture,Yes,1993.0,ag
+Americas,Argentina,Ratification of the UN Convention against Torture,Yes,1986.0,ar
+Americas,Bahamas,Ratification of the UN Convention against Torture,Yes,2018.0,bs
+Americas,Barbados,Ratification of the UN Convention against Torture,No,,bb
+Americas,Belize,Ratification of the UN Convention against Torture,Yes,1986.0,bz
+Americas,Bolivia,Ratification of the UN Convention against Torture,Yes,1999.0,bo
+Americas,Brazil,Ratification of the UN Convention against Torture,Yes,1989.0,br
+Americas,Canada,Ratification of the UN Convention against Torture,Yes,1987.0,ca
+Americas,Chile,Ratification of the UN Convention against Torture,Yes,1988.0,cl
+Americas,Colombia,Ratification of the UN Convention against Torture,Yes,1987.0,co
+Americas,Costa Rica,Ratification of the UN Convention against Torture,Yes,1993.0,cr
+Americas,Cuba,Ratification of the UN Convention against Torture,Yes,1995.0,cu
+Americas,Dominica,Ratification of the UN Convention against Torture,No,,dm
+Americas,Dominican Republic,Ratification of the UN Convention against Torture,Yes,2012.0,do
+Americas,Ecuador,Ratification of the UN Convention against Torture,Yes,1988.0,ec
+Americas,El Salvador,Ratification of the UN Convention against Torture,Yes,1996.0,sv
+Americas,Grenada,Ratification of the UN Convention against Torture,No,,gd
+Americas,Guatemala,Ratification of the UN Convention against Torture,Yes,1990.0,gt
+Americas,Guyana,Ratification of the UN Convention against Torture,Yes,1988.0,gy
+Americas,Haiti,Ratification of the UN Convention against Torture,No,,ht
+Americas,Honduras,Ratification of the UN Convention against Torture,Yes,1996.0,hn
+Americas,Jamaica,Ratification of the UN Convention against Torture,No,,jm
+Americas,Mexico,Ratification of the UN Convention against Torture,Yes,1986.0,mx
+Americas,Nicaragua,Ratification of the UN Convention against Torture,Yes,2005.0,ni
+Americas,Panama,Ratification of the UN Convention against Torture,Yes,1987.0,pa
+Americas,Paraguay,Ratification of the UN Convention against Torture,Yes,1990.0,py
+Americas,Peru,Ratification of the UN Convention against Torture,Yes,1988.0,pe
+Americas,Saint Kitts and Nevis,Ratification of the UN Convention against Torture,Yes,2020.0,kn
+Americas,Saint Lucia,Ratification of the UN Convention against Torture,No,,lc
+Americas,Saint Vincent and the Grenadines,Ratification of the UN Convention against Torture,Yes,2001.0,vc
+Americas,Suriname,Ratification of the UN Convention against Torture,Yes,2021.0,sr
+Americas,Trinidad and Tobago,Ratification of the UN Convention against Torture,No,,tt
+Americas,United States,Ratification of the UN Convention against Torture,Yes,1994.0,us
+Americas,Uruguay,Ratification of the UN Convention against Torture,Yes,1986.0,uy
+Americas,Venezuela,Ratification of the UN Convention against Torture,Yes,1991.0,ve
+Africa,Algeria,Ratification of the UN Convention against Torture,Yes,1989.0,dz
+Africa,Angola,Ratification of the UN Convention against Torture,Yes,2019.0,ao
+Africa,Benin,Ratification of the UN Convention against Torture,Yes,1992.0,bj
+Africa,Botswana,Ratification of the UN Convention against Torture,Yes,2000.0,bw
+Africa,Burkina Faso,Ratification of the UN Convention against Torture,Yes,1999.0,bf
+Africa,Burundi,Ratification of the UN Convention against Torture,Yes,1993.0,bi
+Africa,Cabo Verde,Ratification of the UN Convention against Torture,Yes,1992.0,cv
+Africa,Cameroon,Ratification of the UN Convention against Torture,Yes,1986.0,cm
+Africa,Central African Republic,Ratification of the UN Convention against Torture,Yes,2016.0,cf
+Africa,Chad,Ratification of the UN Convention against Torture,Yes,1995.0,td
+Africa,Comoros,Ratification of the UN Convention against Torture,Yes,2017.0,km
+Africa,Congo,Ratification of the UN Convention against Torture,Yes,2003.0,cg
+Africa,Cote d'Ivoire,Ratification of the UN Convention against Torture,Yes,1995.0,ci
+Africa,Democratic Republic of the Congo,Ratification of the UN Convention against Torture,Yes,1996.0,cd
+Africa,Djibouti,Ratification of the UN Convention against Torture,Yes,2002.0,dj
+Africa,Equatorial Guinea,Ratification of the UN Convention against Torture,Yes,2002.0,gq
+Africa,Eritrea,Ratification of the UN Convention against Torture,Yes,2014.0,er
+Africa,Ethiopia,Ratification of the UN Convention against Torture,Yes,1994.0,et
+Africa,Gabon,Ratification of the UN Convention against Torture,Yes,2000.0,ga
+Africa,Gambia,Ratification of the UN Convention against Torture,Yes,2018.0,gm
+Africa,Ghana,Ratification of the UN Convention against Torture,Yes,2000.0,gh
+Africa,Guinea,Ratification of the UN Convention against Torture,Yes,1989.0,gn
+Africa,Guinea-Bissau,Ratification of the UN Convention against Torture,Yes,2013.0,gw
+Africa,Kenya,Ratification of the UN Convention against Torture,Yes,1997.0,ke
+Africa,Lesotho,Ratification of the UN Convention against Torture,Yes,2001.0,ls
+Africa,Liberia,Ratification of the UN Convention against Torture,Yes,2004.0,lr
+Africa,Madagascar,Ratification of the UN Convention against Torture,Yes,2005.0,mg
+Africa,Malawi,Ratification of the UN Convention against Torture,Yes,1996.0,mw
+Africa,Mali,Ratification of the UN Convention against Torture,Yes,1999.0,ml
+Africa,Mauritania,Ratification of the UN Convention against Torture,Yes,2004.0,mr
+Africa,Mozambique,Ratification of the UN Convention against Torture,Yes,1999.0,mz
+Africa,Namibia,Ratification of the UN Convention against Torture,Yes,1994.0,na
+Africa,Niger,Ratification of the UN Convention against Torture,Yes,1998.0,ne
+Africa,Nigeria,Ratification of the UN Convention against Torture,Yes,2001.0,ng
+Africa,Rwanda,Ratification of the UN Convention against Torture,Yes,2008.0,rw
+Africa,Sao Tome and Principe,Ratification of the UN Convention against Torture,Yes,2017.0,st
+Africa,Senegal,Ratification of the UN Convention against Torture,Yes,1986.0,sn
+Africa,Seychelles,Ratification of the UN Convention against Torture,Yes,1992.0,sc
+Africa,Sierra Leone,Ratification of the UN Convention against Torture,Yes,2001.0,sl
+Africa,Somalia,Ratification of the UN Convention against Torture,Yes,1990.0,so
+Africa,South Sudan,Ratification of the UN Convention against Torture,Yes,2015.0,ss
+Africa,Sudan,Ratification of the UN Convention against Torture,Yes,2021.0,sd
+Africa,Swaziland,Ratification of the UN Convention against Torture,Yes,2004.0,sz
+Africa,Uganda,Ratification of the UN Convention against Torture,Yes,1986.0,ug
+Africa,United Republic of Tanzania,Ratification of the UN Convention against Torture,No,,tz
+Africa,Zambia,Ratification of the UN Convention against Torture,Yes,1998.0,zm
+Africa,Zimbabwe,Ratification of the UN Convention against Torture,No,,zw
+Africa,Mauritius,Ratification of the UN Convention against Torture,Yes,1992.0,mu
+Africa,South Africa,Ratification of the UN Convention against Torture,Yes,2001.0,za
+Africa,Togo,Ratification of the UN Convention against Torture,Yes,1987.0,tg
+Europe,Albania,Ratification of the UN Convention against Torture,Yes,1994.0,al
+Europe,Andorra,Ratification of the UN Convention against Torture,Yes,2006.0,ad
+Europe,Austria,Ratification of the UN Convention against Torture,Yes,1987.0,at
+Europe,Armenia,Ratification of the UN Convention against Torture,Yes,1993.0,am
+Europe,Belarus,Ratification of the UN Convention against Torture,Yes,1987.0,by
+Europe,Belgium,Ratification of the UN Convention against Torture,Yes,1999.0,be
+Europe,Bulgaria,Ratification of the UN Convention against Torture,Yes,1986.0,bg
+Europe,Croatia,Ratification of the UN Convention against Torture,Yes,1992.0,hr
+Europe,Cyprus,Ratification of the UN Convention against Torture,Yes,1991.0,cy
+Europe,France,Ratification of the UN Convention against Torture,Yes,1986.0,fr
+Europe,Czech Republic,Ratification of the UN Convention against Torture,Yes,1993.0,cz
+Europe,Denmark,Ratification of the UN Convention against Torture,Yes,1987.0,dk
+Europe,Estonia,Ratification of the UN Convention against Torture,Yes,1991.0,ee
+Europe,Finland,Ratification of the UN Convention against Torture,Yes,1989.0,fi
+Europe,Georgia,Ratification of the UN Convention against Torture,Yes,1994.0,ge
+Europe,Germany,Ratification of the UN Convention against Torture,Yes,1990.0,de
+Europe,Greece,Ratification of the UN Convention against Torture,Yes,1988.0,gr
+Europe,Holy See,Ratification of the UN Convention against Torture,Yes,2002.0,va
+Europe,Hungary,Ratification of the UN Convention against Torture,Yes,1987.0,hu
+Europe,Iceland,Ratification of the UN Convention against Torture,Yes,1996.0,is
+Europe,Italy,Ratification of the UN Convention against Torture,Yes,1989.0,it
+Europe,Ireland,Ratification of the UN Convention against Torture,Yes,2002.0,ie
+Europe,Latvia,Ratification of the UN Convention against Torture,Yes,1992.0,lv
+Europe,Liechtenstein,Ratification of the UN Convention against Torture,Yes,1990.0,li
+Europe,Lithuania,Ratification of the UN Convention against Torture,Yes,1996.0,lt
+Europe,Luxembourg,Ratification of the UN Convention against Torture,Yes,1987.0,lu
+Europe,North Macedonia,Ratification of the UN Convention against Torture,Yes,1994.0,mk
+Europe,Romania,Ratification of the UN Convention against Torture,Yes,1990.0,ro
+Europe,San Marino,Ratification of the UN Convention against Torture,Yes,2006.0,sm
+Europe,Serbia,Ratification of the UN Convention against Torture,Yes,2001.0,rs
+Europe,Slovakia,Ratification of the UN Convention against Torture,Yes,1993.0,sk
+Europe,Slovenia,Ratification of the UN Convention against Torture,Yes,1993.0,si
+Europe,Spain,Ratification of the UN Convention against Torture,Yes,1987.0,es
+Europe,Sweden,Ratification of the UN Convention against Torture,Yes,1986.0,se
+Europe,Switzerland,Ratification of the UN Convention against Torture,Yes,1986.0,ch
+Europe,United Kingdom,Ratification of the UN Convention against Torture,Yes,1988.0,gb
+Europe,Malta,Ratification of the UN Convention against Torture,Yes,1990.0,mt
+Europe,Monaco,Ratification of the UN Convention against Torture,Yes,1991.0,mc
+Europe,Montenegro,Ratification of the UN Convention against Torture,Yes,2006.0,me
+Europe,Netherlands,Ratification of the UN Convention against Torture,Yes,1988.0,nl
+Europe,Norway,Ratification of the UN Convention against Torture,Yes,1986.0,no
+Europe,Poland,Ratification of the UN Convention against Torture,Yes,1989.0,pl
+Europe,Portugal,Ratification of the UN Convention against Torture,Yes,1989.0,pt
+Europe,Republic of Moldova,Ratification of the UN Convention against Torture,Yes,1995.0,md
+Europe,Russia,Ratification of the UN Convention against Torture,Yes,1987.0,ru
+Europe,Turkey,Ratification of the UN Convention against Torture,Yes,1988.0,tr
+Europe,Ukraine,Ratification of the UN Convention against Torture,Yes,1987.0,ua
+Middle East,Bahrain,Ratification of the UN Convention against Torture,Yes,1998.0,bh
+Middle East,Egypt,Ratification of the UN Convention against Torture,Yes,1986.0,eg
+Middle East,Iran,Ratification of the UN Convention against Torture,No,,ir
+Middle East,Iraq,Ratification of the UN Convention against Torture,Yes,2011.0,iq
+Middle East,Israel,Ratification of the UN Convention against Torture,Yes,1991.0,il
+Middle East,Jordan,Ratification of the UN Convention against Torture,Yes,1991.0,jo
+Middle East,Kuwait,Ratification of the UN Convention against Torture,Yes,1996.0,kw
+Middle East,Lebanon,Ratification of the UN Convention against Torture,Yes,2008.0,lb
+Middle East,Libya,Ratification of the UN Convention against Torture,Yes,1989.0,ly
+Middle East,Morocco,Ratification of the UN Convention against Torture,Yes,1993.0,ma
+Middle East,State of Palestine,Ratification of the UN Convention against Torture,Yes,2014.0,ps
+Middle East,Oman,Ratification of the UN Convention against Torture,Yes,2020.0,om
+Middle East,Qatar,Ratification of the UN Convention against Torture,Yes,2000.0,qa
+Middle East,Saudi Arabia,Ratification of the UN Convention against Torture,Yes,1997.0,sa
+Middle East,Syria ,Ratification of the UN Convention against Torture,Yes,2004.0,sy
+Middle East,Tunisia,Ratification of the UN Convention against Torture,Yes,1988.0,tn
+Middle East,United Arab Emirates,Ratification of the UN Convention against Torture,Yes,2012.0,ae
+Middle East,Yemen,Ratification of the UN Convention against Torture,Yes,1991.0,ye
+Asia-Pacific,Afghanistan,Ratification of the UN Convention against Torture,Yes,1987.0,af
+Asia-Pacific,Australia,Ratification of the UN Convention against Torture,Yes,1989.0,au
+Asia-Pacific,Azerbaijan,Ratification of the UN Convention against Torture,Yes,1996.0,az
+Asia-Pacific,Bangladesh,Ratification of the UN Convention against Torture,Yes,1998.0,bd
+Asia-Pacific,Bhutan,Ratification of the UN Convention against Torture,No,,bt
+Asia-Pacific,Brunei Darussalam,Ratification of the UN Convention against Torture,No,,bn
+Asia-Pacific,Cambodia,Ratification of the UN Convention against Torture,Yes,1992.0,kh
+Asia-Pacific,China,Ratification of the UN Convention against Torture,Yes,1988.0,cn
+Asia-Pacific,Cook Islands,Ratification of the UN Convention against Torture,No,,ck
+Asia-Pacific,Fiji,Ratification of the UN Convention against Torture,Yes,2016.0,fj
+Asia-Pacific,Democratic People's Republic of Korea,Ratification of the UN Convention against Torture,No,,kp
+Asia-Pacific,India,Ratification of the UN Convention against Torture,No,,in
+Asia-Pacific,Indonesia,Ratification of the UN Convention against Torture,Yes,1998.0,id
+Asia-Pacific,Japan,Ratification of the UN Convention against Torture,Yes,1999.0,jp
+Asia-Pacific,Kazakhstan,Ratification of the UN Convention against Torture,Yes,1998.0,kz
+Asia-Pacific,Kiribati,Ratification of the UN Convention against Torture,Yes,2019.0,ki
+Asia-Pacific,Kyrgyzstan,Ratification of the UN Convention against Torture,Yes,1997.0,kg
+Asia-Pacific,Lao People's Democratic Republic,Ratification of the UN Convention against Torture,Yes,2012.0,la
+Asia-Pacific,Marshall Islands,Ratification of the UN Convention against Torture,Yes,2018.0,mh
+Asia-Pacific,Malaysia,Ratification of the UN Convention against Torture,No,,my
+Asia-Pacific,Maldives,Ratification of the UN Convention against Torture,Yes,2004.0,mv
+Asia-Pacific,Micronesia,Ratification of the UN Convention against Torture,No,,fm
+Asia-Pacific,Mongolia,Ratification of the UN Convention against Torture,Yes,2002.0,mn
+Asia-Pacific,Myanmar,Ratification of the UN Convention against Torture,No,,mm
+Asia-Pacific,Nauru,Ratification of the UN Convention against Torture,Yes,2012.0,nr
+Asia-Pacific,Nepal,Ratification of the UN Convention against Torture,Yes,1991.0,np
+Asia-Pacific,New Zealand,Ratification of the UN Convention against Torture,Yes,1989.0,nz
+Asia-Pacific,Niue,Ratification of the UN Convention against Torture,No,,nu
+Asia-Pacific,Palau,Ratification of the UN Convention against Torture,No,,pw
+Asia-Pacific,Papua New Guinea,Ratification of the UN Convention against Torture,No,,pg
+Asia-Pacific,Pakistan,Ratification of the UN Convention against Torture,Yes,2010.0,pk
+Asia-Pacific,Philippines,Ratification of the UN Convention against Torture,Yes,1986.0,ph
+Asia-Pacific,Republic of Korea,Ratification of the UN Convention against Torture,Yes,1995.0,kr
+Asia-Pacific,Samoa,Ratification of the UN Convention against Torture,Yes,2019.0,ws
+Asia-Pacific,Solomon Islands,Ratification of the UN Convention against Torture,No,,sb
+Asia-Pacific,Singapore,Ratification of the UN Convention against Torture,No,,sg
+Asia-Pacific,Sri Lanka,Ratification of the UN Convention against Torture,Yes,1994.0,lk
+Asia-Pacific,Tajikistan,Ratification of the UN Convention against Torture,Yes,1995.0,tj
+Asia-Pacific,Thailand,Ratification of the UN Convention against Torture,Yes,2007.0,th
+Asia-Pacific,Timor-Leste,Ratification of the UN Convention against Torture,Yes,2003.0,tl
+Asia-Pacific,Tonga,Ratification of the UN Convention against Torture,No,,to
+Asia-Pacific,Turkmenistan,Ratification of the UN Convention against Torture,Yes,1999.0,tm
+Asia-Pacific,Tuvalu,Ratification of the UN Convention against Torture,No,,tv
+Asia-Pacific,Uzbekistan,Ratification of the UN Convention against Torture,Yes,1995.0,uz
+Asia-Pacific,Vanuatu,Ratification of the UN Convention against Torture,Yes,2011.0,vu
+Asia-Pacific,Viet Nam,Ratification of the UN Convention against Torture,Yes,2015.0,vn
+Americas,Antigua and Barbuda,Ratification of Optional Protocol (OPCAT),No,,ag
+Americas,Argentina,Ratification of Optional Protocol (OPCAT),Yes,2004.0,ar
+Americas,Bahamas,Ratification of Optional Protocol (OPCAT),No,,bs
+Americas,Barbados,Ratification of Optional Protocol (OPCAT),No,,bb
+Americas,Belize,Ratification of Optional Protocol (OPCAT),Yes,2015.0,bz
+Americas,Bolivia,Ratification of Optional Protocol (OPCAT),Yes,2006.0,bo
+Americas,Brazil,Ratification of Optional Protocol (OPCAT),Yes,2008.0,br
+Americas,Canada,Ratification of Optional Protocol (OPCAT),No,,ca
+Americas,Chile,Ratification of Optional Protocol (OPCAT),Yes,2008.0,cl
+Americas,Colombia,Ratification of Optional Protocol (OPCAT),No,,co
+Americas,Costa Rica,Ratification of Optional Protocol (OPCAT),Yes,2005.0,cr
+Americas,Cuba,Ratification of Optional Protocol (OPCAT),No,,cu
+Americas,Dominica,Ratification of Optional Protocol (OPCAT),No,,dm
+Americas,Dominican Republic,Ratification of Optional Protocol (OPCAT),No,,do
+Americas,Ecuador,Ratification of Optional Protocol (OPCAT),Yes,2010.0,ec
+Americas,El Salvador,Ratification of Optional Protocol (OPCAT),No,,sv
+Americas,Grenada,Ratification of Optional Protocol (OPCAT),No,,gd
+Americas,Guatemala,Ratification of Optional Protocol (OPCAT),Yes,2008.0,gt
+Americas,Guyana,Ratification of Optional Protocol (OPCAT),No,,gy
+Americas,Haiti,Ratification of Optional Protocol (OPCAT),No,,ht
+Americas,Honduras,Ratification of Optional Protocol (OPCAT),Yes,2006.0,hn
+Americas,Jamaica,Ratification of Optional Protocol (OPCAT),No,,jm
+Americas,Mexico,Ratification of Optional Protocol (OPCAT),Yes,2005.0,mx
+Americas,Nicaragua,Ratification of Optional Protocol (OPCAT),Yes,2005.0,ni
+Americas,Panama,Ratification of Optional Protocol (OPCAT),Yes,2011.0,pa
+Americas,Paraguay,Ratification of Optional Protocol (OPCAT),Yes,2005.0,py
+Americas,Peru,Ratification of Optional Protocol (OPCAT),Yes,2006.0,pe
+Americas,Saint Kitts and Nevis,Ratification of Optional Protocol (OPCAT),No,,kn
+Americas,Saint Lucia,Ratification of Optional Protocol (OPCAT),No,,lc
+Americas,Saint Vincent and the Grenadines,Ratification of Optional Protocol (OPCAT),No,,vc
+Americas,Suriname,Ratification of Optional Protocol (OPCAT),No,,sr
+Americas,Trinidad and Tobago,Ratification of Optional Protocol (OPCAT),No,,tt
+Americas,United States,Ratification of Optional Protocol (OPCAT),No,,us
+Americas,Uruguay,Ratification of Optional Protocol (OPCAT),Yes,2005.0,uy
+Americas,Venezuela,Ratification of Optional Protocol (OPCAT),Yes,2011.0,ve
+Africa,Algeria,Ratification of Optional Protocol (OPCAT),No,,dz
+Africa,Angola,Ratification of Optional Protocol (OPCAT),No,,ao
+Africa,Benin,Ratification of Optional Protocol (OPCAT),Yes,2006.0,bj
+Africa,Botswana,Ratification of Optional Protocol (OPCAT),No,,bw
+Africa,Burkina Faso,Ratification of Optional Protocol (OPCAT),Yes,2010.0,bf
+Africa,Burundi,Ratification of Optional Protocol (OPCAT),Yes,2013.0,bi
+Africa,Cabo Verde,Ratification of Optional Protocol (OPCAT),Yes,2016.0,cv
+Africa,Cameroon,Ratification of Optional Protocol (OPCAT),No,,cm
+Africa,Central African Republic,Ratification of Optional Protocol (OPCAT),Yes,2016.0,cf
+Africa,Chad,Ratification of Optional Protocol (OPCAT),No,,td
+Africa,Comoros,Ratification of Optional Protocol (OPCAT),No,,km
+Africa,Congo,Ratification of Optional Protocol (OPCAT),Yes,2024.0,cg
+Africa,Cote d'Ivoire,Ratification of Optional Protocol (OPCAT),Yes,2023.0,ci
+Africa,Democratic Republic of the Congo,Ratification of Optional Protocol (OPCAT),Yes,2010.0,cd
+Africa,Djibouti,Ratification of Optional Protocol (OPCAT),No,,dj
+Africa,Equatorial Guinea,Ratification of Optional Protocol (OPCAT),No,,gq
+Africa,Eritrea,Ratification of Optional Protocol (OPCAT),No,,er
+Africa,Ethiopia,Ratification of Optional Protocol (OPCAT),No,,et
+Africa,Gabon,Ratification of Optional Protocol (OPCAT),Yes,2010.0,ga
+Africa,Gambia,Ratification of Optional Protocol (OPCAT),No,,gm
+Africa,Ghana,Ratification of Optional Protocol (OPCAT),Yes,2016.0,gh
+Africa,Guinea,Ratification of Optional Protocol (OPCAT),No,,gn
+Africa,Guinea-Bissau,Ratification of Optional Protocol (OPCAT),No,,gw
+Africa,Kenya,Ratification of Optional Protocol (OPCAT),No,,ke
+Africa,Lesotho,Ratification of Optional Protocol (OPCAT),No,,ls
+Africa,Liberia,Ratification of Optional Protocol (OPCAT),Yes,2004.0,lr
+Africa,Madagascar,Ratification of Optional Protocol (OPCAT),Yes,2017.0,mg
+Africa,Malawi,Ratification of Optional Protocol (OPCAT),No,,mw
+Africa,Mali,Ratification of Optional Protocol (OPCAT),Yes,2005.0,ml
+Africa,Mauritania,Ratification of Optional Protocol (OPCAT),Yes,2012.0,mr
+Africa,Mozambique,Ratification of Optional Protocol (OPCAT),Yes,2014.0,mz
+Africa,Namibia,Ratification of Optional Protocol (OPCAT),No,,na
+Africa,Niger,Ratification of Optional Protocol (OPCAT),Yes,2014.0,ne
+Africa,Nigeria,Ratification of Optional Protocol (OPCAT),Yes,2009.0,ng
+Africa,Rwanda,Ratification of Optional Protocol (OPCAT),Yes,2015.0,rw
+Africa,Sao Tome and Principe,Ratification of Optional Protocol (OPCAT),No,,st
+Africa,Senegal,Ratification of Optional Protocol (OPCAT),Yes,2006.0,sn
+Africa,Seychelles,Ratification of Optional Protocol (OPCAT),No,,sc
+Africa,Sierra Leone,Ratification of Optional Protocol (OPCAT),No,,sl
+Africa,Somalia,Ratification of Optional Protocol (OPCAT),No,,so
+Africa,South Sudan,Ratification of Optional Protocol (OPCAT),Yes,2015.0,ss
+Africa,Sudan,Ratification of Optional Protocol (OPCAT),No,,sd
+Africa,Swaziland,Ratification of Optional Protocol (OPCAT),No,,sz
+Africa,Uganda,Ratification of Optional Protocol (OPCAT),No,,ug
+Africa,United Republic of Tanzania,Ratification of Optional Protocol (OPCAT),No,,tz
+Africa,Zambia,Ratification of Optional Protocol (OPCAT),No,,zm
+Africa,Zimbabwe,Ratification of Optional Protocol (OPCAT),No,,zw
+Africa,Mauritius,Ratification of Optional Protocol (OPCAT),Yes,2005.0,mu
+Africa,South Africa,Ratification of Optional Protocol (OPCAT),Yes,2019.0,za
+Africa,Togo,Ratification of Optional Protocol (OPCAT),Yes,2010.0,tg
+Europe,Albania,Ratification of Optional Protocol (OPCAT),Yes,2003.0,al
+Europe,Andorra,Ratification of Optional Protocol (OPCAT),No,,ad
+Europe,Austria,Ratification of Optional Protocol (OPCAT),Yes,2012.0,at
+Europe,Armenia,Ratification of Optional Protocol (OPCAT),Yes,2006.0,am
+Europe,Belarus,Ratification of Optional Protocol (OPCAT),No,,by
+Europe,Belgium,Ratification of Optional Protocol (OPCAT),No,,be
+Europe,Bulgaria,Ratification of Optional Protocol (OPCAT),Yes,2011.0,bg
+Europe,Croatia,Ratification of Optional Protocol (OPCAT),Yes,2005.0,hr
+Europe,Cyprus,Ratification of Optional Protocol (OPCAT),Yes,2009.0,cy
+Europe,France,Ratification of Optional Protocol (OPCAT),Yes,2008.0,fr
+Europe,Czech Republic,Ratification of Optional Protocol (OPCAT),Yes,2006.0,cz
+Europe,Denmark,Ratification of Optional Protocol (OPCAT),Yes,2004.0,dk
+Europe,Estonia,Ratification of Optional Protocol (OPCAT),Yes,2006.0,ee
+Europe,Finland,Ratification of Optional Protocol (OPCAT),Yes,2014.0,fi
+Europe,Georgia,Ratification of Optional Protocol (OPCAT),Yes,2005.0,ge
+Europe,Germany,Ratification of Optional Protocol (OPCAT),Yes,2008.0,de
+Europe,Greece,Ratification of Optional Protocol (OPCAT),Yes,2014.0,gr
+Europe,Holy See,Ratification of Optional Protocol (OPCAT),No,,va
+Europe,Hungary,Ratification of Optional Protocol (OPCAT),Yes,2012.0,hu
+Europe,Iceland,Ratification of Optional Protocol (OPCAT),Yes,2019.0,is
+Europe,Italy,Ratification of Optional Protocol (OPCAT),Yes,2013.0,it
+Europe,Ireland,Ratification of Optional Protocol (OPCAT),No,,ie
+Europe,Latvia,Ratification of Optional Protocol (OPCAT),Yes,2021.0,lv
+Europe,Liechtenstein,Ratification of Optional Protocol (OPCAT),Yes,2006.0,li
+Europe,Lithuania,Ratification of Optional Protocol (OPCAT),Yes,2014.0,lt
+Europe,Luxembourg,Ratification of Optional Protocol (OPCAT),Yes,2010.0,lu
+Europe,North Macedonia,Ratification of Optional Protocol (OPCAT),Yes,2009.0,mk
+Europe,Romania,Ratification of Optional Protocol (OPCAT),Yes,2009.0,ro
+Europe,San Marino,Ratification of Optional Protocol (OPCAT),No,,sm
+Europe,Serbia,Ratification of Optional Protocol (OPCAT),Yes,2006.0,rs
+Europe,Slovakia,Ratification of Optional Protocol (OPCAT),Yes,2023.0,sk
+Europe,Slovenia,Ratification of Optional Protocol (OPCAT),Yes,2007.0,si
+Europe,Spain,Ratification of Optional Protocol (OPCAT),Yes,2006.0,es
+Europe,Sweden,Ratification of Optional Protocol (OPCAT),Yes,2005.0,se
+Europe,Switzerland,Ratification of Optional Protocol (OPCAT),Yes,2009.0,ch
+Europe,United Kingdom,Ratification of Optional Protocol (OPCAT),Yes,2003.0,gb
+Europe,Malta,Ratification of Optional Protocol (OPCAT),Yes,2003.0,mt
+Europe,Monaco,Ratification of Optional Protocol (OPCAT),No,,mc
+Europe,Montenegro,Ratification of Optional Protocol (OPCAT),Yes,2009.0,me
+Europe,Netherlands,Ratification of Optional Protocol (OPCAT),Yes,2010.0,nl
+Europe,Norway,Ratification of Optional Protocol (OPCAT),Yes,2013.0,no
+Europe,Poland,Ratification of Optional Protocol (OPCAT),Yes,2005.0,pl
+Europe,Portugal,Ratification of Optional Protocol (OPCAT),Yes,2013.0,pt
+Europe,Republic of Moldova,Ratification of Optional Protocol (OPCAT),Yes,2006.0,md
+Europe,Russia,Ratification of Optional Protocol (OPCAT),No,,ru
+Europe,Turkey,Ratification of Optional Protocol (OPCAT),Yes,2011.0,tr
+Europe,Ukraine,Ratification of Optional Protocol (OPCAT),Yes,2006.0,ua
+Middle East,Bahrain,Ratification of Optional Protocol (OPCAT),No,,bh
+Middle East,Egypt,Ratification of Optional Protocol (OPCAT),No,,eg
+Middle East,Iran,Ratification of Optional Protocol (OPCAT),No,,ir
+Middle East,Iraq,Ratification of Optional Protocol (OPCAT),No,,iq
+Middle East,Israel,Ratification of Optional Protocol (OPCAT),No,,il
+Middle East,Jordan,Ratification of Optional Protocol (OPCAT),No,,jo
+Middle East,Kuwait,Ratification of Optional Protocol (OPCAT),No,,kw
+Middle East,Lebanon,Ratification of Optional Protocol (OPCAT),Yes,2008.0,lb
+Middle East,Libya,Ratification of Optional Protocol (OPCAT),No,,ly
+Middle East,Morocco,Ratification of Optional Protocol (OPCAT),Yes,2014.0,ma
+Middle East,State of Palestine,Ratification of Optional Protocol (OPCAT),Yes,2017.0,ps
+Middle East,Oman,Ratification of Optional Protocol (OPCAT),No,,om
+Middle East,Qatar,Ratification of Optional Protocol (OPCAT),No,,qa
+Middle East,Saudi Arabia,Ratification of Optional Protocol (OPCAT),No,,sa
+Middle East,Syria ,Ratification of Optional Protocol (OPCAT),No,,sy
+Middle East,Tunisia,Ratification of Optional Protocol (OPCAT),Yes,2011.0,tn
+Middle East,United Arab Emirates,Ratification of Optional Protocol (OPCAT),No,,ae
+Middle East,Yemen,Ratification of Optional Protocol (OPCAT),No,,ye
+Asia-Pacific,Afghanistan,Ratification of Optional Protocol (OPCAT),Yes,2018.0,af
+Asia-Pacific,Australia,Ratification of Optional Protocol (OPCAT),Yes,2017.0,au
+Asia-Pacific,Azerbaijan,Ratification of Optional Protocol (OPCAT),Yes,2009.0,az
+Asia-Pacific,Bangladesh,Ratification of Optional Protocol (OPCAT),No,,bd
+Asia-Pacific,Bhutan,Ratification of Optional Protocol (OPCAT),No,,bt
+Asia-Pacific,Brunei Darussalam,Ratification of Optional Protocol (OPCAT),No,,bn
+Asia-Pacific,Cambodia,Ratification of Optional Protocol (OPCAT),Yes,2007.0,kh
+Asia-Pacific,China,Ratification of Optional Protocol (OPCAT),No,,cn
+Asia-Pacific,Cook Islands,Ratification of Optional Protocol (OPCAT),No,,ck
+Asia-Pacific,Fiji,Ratification of Optional Protocol (OPCAT),No,,fj
+Asia-Pacific,Democratic People's Republic of Korea,Ratification of Optional Protocol (OPCAT),No,,kp
+Asia-Pacific,India,Ratification of Optional Protocol (OPCAT),No,,in
+Asia-Pacific,Indonesia,Ratification of Optional Protocol (OPCAT),No,,id
+Asia-Pacific,Japan,Ratification of Optional Protocol (OPCAT),No,,jp
+Asia-Pacific,Kazakhstan,Ratification of Optional Protocol (OPCAT),Yes,2008.0,kz
+Asia-Pacific,Kiribati,Ratification of Optional Protocol (OPCAT),No,,ki
+Asia-Pacific,Kyrgyzstan,Ratification of Optional Protocol (OPCAT),Yes,2008.0,kg
+Asia-Pacific,Lao People's Democratic Republic,Ratification of Optional Protocol (OPCAT),No,,la
+Asia-Pacific,Marshall Islands,Ratification of Optional Protocol (OPCAT),No,,mh
+Asia-Pacific,Malaysia,Ratification of Optional Protocol (OPCAT),No,,my
+Asia-Pacific,Maldives,Ratification of Optional Protocol (OPCAT),Yes,2006.0,mv
+Asia-Pacific,Micronesia,Ratification of Optional Protocol (OPCAT),No,,fm
+Asia-Pacific,Mongolia,Ratification of Optional Protocol (OPCAT),Yes,2015.0,mn
+Asia-Pacific,Myanmar,Ratification of Optional Protocol (OPCAT),No,,mm
+Asia-Pacific,Nauru,Ratification of Optional Protocol (OPCAT),Yes,2013.0,nr
+Asia-Pacific,Nepal,Ratification of Optional Protocol (OPCAT),No,,np
+Asia-Pacific,New Zealand,Ratification of Optional Protocol (OPCAT),Yes,2007.0,nz
+Asia-Pacific,Niue,Ratification of Optional Protocol (OPCAT),No,,nu
+Asia-Pacific,Palau,Ratification of Optional Protocol (OPCAT),No,,pw
+Asia-Pacific,Papua New Guinea,Ratification of Optional Protocol (OPCAT),No,,pg
+Asia-Pacific,Pakistan,Ratification of Optional Protocol (OPCAT),No,,pk
+Asia-Pacific,Philippines,Ratification of Optional Protocol (OPCAT),Yes,2012.0,ph
+Asia-Pacific,Republic of Korea,Ratification of Optional Protocol (OPCAT),No,,kr
+Asia-Pacific,Samoa,Ratification of Optional Protocol (OPCAT),No,,ws
+Asia-Pacific,Solomon Islands,Ratification of Optional Protocol (OPCAT),No,,sb
+Asia-Pacific,Singapore,Ratification of Optional Protocol (OPCAT),No,,sg
+Asia-Pacific,Sri Lanka,Ratification of Optional Protocol (OPCAT),Yes,2017.0,lk
+Asia-Pacific,Tajikistan,Ratification of Optional Protocol (OPCAT),No,,tj
+Asia-Pacific,Thailand,Ratification of Optional Protocol (OPCAT),No,,th
+Asia-Pacific,Timor-Leste,Ratification of Optional Protocol (OPCAT),No,,tl
+Asia-Pacific,Tonga,Ratification of Optional Protocol (OPCAT),No,,to
+Asia-Pacific,Turkmenistan,Ratification of Optional Protocol (OPCAT),No,,tm
+Asia-Pacific,Tuvalu,Ratification of Optional Protocol (OPCAT),No,,tv
+Asia-Pacific,Uzbekistan,Ratification of Optional Protocol (OPCAT),No,,uz
+Asia-Pacific,Vanuatu,Ratification of Optional Protocol (OPCAT),No,,vu
+Asia-Pacific,Viet Nam,Ratification of Optional Protocol (OPCAT),No,,vn
+Americas,Antigua and Barbuda,Submission of initial report to CAT ,No,,ag
+Americas,Argentina,Submission of initial report to CAT ,Yes,1992.0,ar
+Americas,Bahamas,Submission of initial report to CAT ,No,,bs
+Americas,Barbados,Submission of initial report to CAT ,No,,bb
+Americas,Belize,Submission of initial report to CAT ,No,,bz
+Americas,Bolivia,Submission of initial report to CAT ,Yes,1992.0,bo
+Americas,Brazil,Submission of initial report to CAT ,Yes,2000.0,br
+Americas,Canada,Submission of initial report to CAT ,Yes,1989.0,ca
+Americas,Chile,Submission of initial report to CAT ,Yes,1992.0,cl
+Americas,Colombia,Submission of initial report to CAT ,Yes,1995.0,co
+Americas,Costa Rica,Submission of initial report to CAT ,Yes,2000.0,cr
+Americas,Cuba,Submission of initial report to CAT ,Yes,1996.0,cu
+Americas,Dominica,Submission of initial report to CAT ,No,,dm
+Americas,Dominican Republic,Submission of initial report to CAT ,No,,do
+Americas,Ecuador,Submission of initial report to CAT ,Yes,1993.0,ec
+Americas,El Salvador,Submission of initial report to CAT ,Yes,1999.0,sv
+Americas,Grenada,Submission of initial report to CAT ,No,,gd
+Americas,Guatemala,Submission of initial report to CAT ,Yes,1994.0,gt
+Americas,Guyana,Submission of initial report to CAT ,Yes,1989.0,gy
+Americas,Haiti,Submission of initial report to CAT ,No,,ht
+Americas,Honduras,Submission of initial report to CAT ,Yes,2008.0,hn
+Americas,Jamaica,Submission of initial report to CAT ,No,,jm
+Americas,Mexico,Submission of initial report to CAT ,Yes,1992.0,mx
+Americas,Nicaragua,Submission of initial report to CAT ,Yes,2007.0,ni
+Americas,Panama,Submission of initial report to CAT ,Yes,1992.0,pa
+Americas,Paraguay,Submission of initial report to CAT ,Yes,1993.0,py
+Americas,Peru,Submission of initial report to CAT ,Yes,2004.0,pe
+Americas,Saint Kitts and Nevis,Submission of initial report to CAT ,No,,kn
+Americas,Saint Lucia,Submission of initial report to CAT ,No,,lc
+Americas,Saint Vincent and the Grenadines,Submission of initial report to CAT ,No,,vc
+Americas,Suriname,Submission of initial report to CAT ,No,,sr
+Americas,Trinidad and Tobago,Submission of initial report to CAT ,No,,tt
+Americas,United States,Submission of initial report to CAT ,Yes,1999.0,us
+Americas,Uruguay,Submission of initial report to CAT ,Yes,1996.0,uy
+Americas,Venezuela,Submission of initial report to CAT ,Yes,1999.0,ve
+Africa,Algeria,Submission of initial report to CAT ,Yes,1996.0,dz
+Africa,Angola,Submission of initial report to CAT ,Yes,2024.0,ao
+Africa,Benin,Submission of initial report to CAT ,Yes,1996.0,bj
+Africa,Botswana,Submission of initial report to CAT ,Yes,2022.0,bw
+Africa,Burkina Faso,Submission of initial report to CAT ,Yes,2012.0,bf
+Africa,Burundi,Submission of initial report to CAT ,Yes,2005.0,bi
+Africa,Cabo Verde,Submission of initial report to CAT ,Yes,2017.0,cv
+Africa,Cameroon,Submission of initial report to CAT ,Yes,1999.0,cm
+Africa,Central African Republic,Submission of initial report to CAT ,No,,cf
+Africa,Chad,Submission of initial report to CAT ,Yes,2008.0,td
+Africa,Comoros,Submission of initial report to CAT ,No,,km
+Africa,Congo,Submission of initial report to CAT ,Yes,2014.0,cg
+Africa,Cote d'Ivoire,Submission of initial report to CAT ,Yes,2024.0,ci
+Africa,Democratic Republic of the Congo,Submission of initial report to CAT ,Yes,2005.0,cd
+Africa,Djibouti,Submission of initial report to CAT ,Yes,2010.0,dj
+Africa,Equatorial Guinea,Submission of initial report to CAT ,No,,gq
+Africa,Eritrea,Submission of initial report to CAT ,No,,er
+Africa,Ethiopia,Submission of initial report to CAT ,Yes,2009.0,et
+Africa,Gabon,Submission of initial report to CAT ,Yes,2011.0,ga
+Africa,Gambia,Submission of initial report to CAT ,No,,gm
+Africa,Ghana,Submission of initial report to CAT ,Yes,2009.0,gh
+Africa,Guinea,Submission of initial report to CAT ,Yes,2014.0,gn
+Africa,Guinea-Bissau,Submission of initial report to CAT ,No,,gw
+Africa,Kenya,Submission of initial report to CAT ,Yes,2007.0,ke
+Africa,Lesotho,Submission of initial report to CAT ,No,,ls
+Africa,Liberia,Submission of initial report to CAT ,No,,lr
+Africa,Madagascar,Submission of initial report to CAT ,Yes,2010.0,mg
+Africa,Malawi,Submission of initial report to CAT ,No,,mw
+Africa,Mali,Submission of initial report to CAT ,No,,ml
+Africa,Mauritania,Submission of initial report to CAT ,Yes,2011.0,mr
+Africa,Mozambique,Submission of initial report to CAT ,Yes,2011.0,mz
+Africa,Namibia,Submission of initial report to CAT ,Yes,1996.0,na
+Africa,Niger,Submission of initial report to CAT ,Yes,2018.0,ne
+Africa,Nigeria,Submission of initial report to CAT ,No,,ng
+Africa,Rwanda,Submission of initial report to CAT ,Yes,2011.0,rw
+Africa,Sao Tome and Principe,Submission of initial report to CAT ,No,,st
+Africa,Senegal,Submission of initial report to CAT ,Yes,1995.0,sn
+Africa,Seychelles,Submission of initial report to CAT ,Yes,2018.0,sc
+Africa,Sierra Leone,Submission of initial report to CAT ,Yes,2013.0,sl
+Africa,Somalia,Submission of initial report to CAT ,No,,so
+Africa,South Sudan,Submission of initial report to CAT ,No,,ss
+Africa,Sudan,Submission of initial report to CAT ,No,,sd
+Africa,Swaziland,Submission of initial report to CAT ,No,,sz
+Africa,Uganda,Submission of initial report to CAT ,Yes,2004.0,ug
+Africa,United Republic of Tanzania,Submission of initial report to CAT ,No,,tz
+Africa,Zambia,Submission of initial report to CAT ,Yes,2000.0,zm
+Africa,Zimbabwe,Submission of initial report to CAT ,No,,zw
+Africa,Mauritius,Submission of initial report to CAT ,Yes,1995.0,mu
+Africa,South Africa,Submission of initial report to CAT ,Yes,2005.0,za
+Africa,Togo,Submission of initial report to CAT ,Yes,2005.0,tg
+Europe,Albania,Submission of initial report to CAT ,Yes,2003.0,al
+Europe,Andorra,Submission of initial report to CAT ,Yes,2012.0,ad
+Europe,Austria,Submission of initial report to CAT ,Yes,1998.0,at
+Europe,Armenia,Submission of initial report to CAT ,Yes,1996.0,am
+Europe,Belarus,Submission of initial report to CAT ,Yes,1993.0,by
+Europe,Belgium,Submission of initial report to CAT ,Yes,2001.0,be
+Europe,Bulgaria,Submission of initial report to CAT ,Yes,1998.0,bg
+Europe,Croatia,Submission of initial report to CAT ,Yes,1996.0,hr
+Europe,Cyprus,Submission of initial report to CAT ,Yes,1993.0,cy
+Europe,France,Submission of initial report to CAT ,Yes,1996.0,fr
+Europe,Czech Republic,Submission of initial report to CAT ,Yes,1994.0,cz
+Europe,Denmark,Submission of initial report to CAT ,Yes,1992.0,dk
+Europe,Estonia,Submission of initial report to CAT ,Yes,2001.0,ee
+Europe,Finland,Submission of initial report to CAT ,Yes,1996.0,fi
+Europe,Georgia,Submission of initial report to CAT ,Yes,1996.0,ge
+Europe,Germany,Submission of initial report to CAT ,Yes,1996.0,de
+Europe,Greece,Submission of initial report to CAT ,Yes,1993.0,gr
+Europe,Holy See,Submission of initial report to CAT ,Yes,2012.0,va
+Europe,Hungary,Submission of initial report to CAT ,Yes,1993.0,hu
+Europe,Iceland,Submission of initial report to CAT ,Yes,1998.0,is
+Europe,Italy,Submission of initial report to CAT ,Yes,1998.0,it
+Europe,Ireland,Submission of initial report to CAT ,Yes,2009.0,ie
+Europe,Latvia,Submission of initial report to CAT ,Yes,2002.0,lv
+Europe,Liechtenstein,Submission of initial report to CAT ,Yes,1994.0,li
+Europe,Lithuania,Submission of initial report to CAT ,Yes,2002.0,lt
+Europe,Luxembourg,Submission of initial report to CAT ,Yes,1998.0,lu
+Europe,North Macedonia,Submission of initial report to CAT ,Yes,1998.0,mk
+Europe,Romania,Submission of initial report to CAT ,Yes,2019.0,ro
+Europe,San Marino,Submission of initial report to CAT ,No,,sm
+Europe,Serbia,Submission of initial report to CAT ,Yes,1998.0,rs
+Europe,Slovakia,Submission of initial report to CAT ,Yes,2000.0,sk
+Europe,Slovenia,Submission of initial report to CAT ,Yes,1999.0,si
+Europe,Spain,Submission of initial report to CAT ,Yes,1992.0,es
+Europe,Sweden,Submission of initial report to CAT ,Yes,1992.0,se
+Europe,Switzerland,Submission of initial report to CAT ,Yes,1989.0,ch
+Europe,United Kingdom,Submission of initial report to CAT ,Yes,1989.0,gb
+Europe,Malta,Submission of initial report to CAT ,Yes,1996.0,mt
+Europe,Monaco,Submission of initial report to CAT ,Yes,1994.0,mc
+Europe,Montenegro,Submission of initial report to CAT ,Yes,2006.0,me
+Europe,Netherlands,Submission of initial report to CAT ,Yes,1990.0,nl
+Europe,Norway,Submission of initial report to CAT ,Yes,1992.0,no
+Europe,Poland,Submission of initial report to CAT ,Yes,1993.0,pl
+Europe,Portugal,Submission of initial report to CAT ,Yes,1993.0,pt
+Europe,Republic of Moldova,Submission of initial report to CAT ,Yes,2001.0,md
+Europe,Russia,Submission of initial report to CAT ,Yes,1988.0,ru
+Europe,Turkey,Submission of initial report to CAT ,Yes,2001.0,tr
+Europe,Ukraine,Submission of initial report to CAT ,Yes,1990.0,ua
+Middle East,Bahrain,Submission of initial report to CAT ,Yes,2004.0,bh
+Middle East,Egypt,Submission of initial report to CAT ,Yes,1993.0,eg
+Middle East,Iran,Submission of initial report to CAT ,No,,ir
+Middle East,Iraq,Submission of initial report to CAT ,Yes,2014.0,iq
+Middle East,Israel,Submission of initial report to CAT ,Yes,1994.0,il
+Middle East,Jordan,Submission of initial report to CAT ,Yes,1994.0,jo
+Middle East,Kuwait,Submission of initial report to CAT ,Yes,1997.0,kw
+Middle East,Lebanon,Submission of initial report to CAT ,Yes,2016.0,lb
+Middle East,Libya,Submission of initial report to CAT ,Yes,1992.0,ly
+Middle East,Morocco,Submission of initial report to CAT ,Yes,1992.0,ma
+Middle East,State of Palestine,Submission of initial report to CAT ,Yes,2019.0,ps
+Middle East,Oman,Submission of initial report to CAT ,No,,om
+Middle East,Qatar,Submission of initial report to CAT ,Yes,2005.0,qa
+Middle East,Saudi Arabia,Submission of initial report to CAT ,Yes,2001.0,sa
+Middle East,Syria ,Submission of initial report to CAT ,Yes,2001.0,sy
+Middle East,Tunisia,Submission of initial report to CAT ,Yes,1997.0,tn
+Middle East,United Arab Emirates,Submission of initial report to CAT ,Yes,2018.0,ae
+Middle East,Yemen,Submission of initial report to CAT ,Yes,2002.0,ye
+Asia-Pacific,Afghanistan,Submission of initial report to CAT ,Yes,1993.0,af
+Asia-Pacific,Australia,Submission of initial report to CAT ,Yes,2000.0,au
+Asia-Pacific,Azerbaijan,Submission of initial report to CAT ,Yes,1998.0,az
+Asia-Pacific,Bangladesh,Submission of initial report to CAT ,Yes,2019.0,bd
+Asia-Pacific,Bhutan,Submission of initial report to CAT ,No,,bt
+Asia-Pacific,Brunei Darussalam,Submission of initial report to CAT ,No,,bn
+Asia-Pacific,Cambodia,Submission of initial report to CAT ,Yes,2002.0,kh
+Asia-Pacific,China,Submission of initial report to CAT ,Yes,1989.0,cn
+Asia-Pacific,Cook Islands,Submission of initial report to CAT ,No,,ck
+Asia-Pacific,Fiji,Submission of initial report to CAT ,No,,fj
+Asia-Pacific,Democratic People's Republic of Korea,Submission of initial report to CAT ,No,,kp
+Asia-Pacific,India,Submission of initial report to CAT ,No,,in
+Asia-Pacific,Indonesia,Submission of initial report to CAT ,Yes,2001.0,id
+Asia-Pacific,Japan,Submission of initial report to CAT ,Yes,2005.0,jp
+Asia-Pacific,Kazakhstan,Submission of initial report to CAT ,Yes,2000.0,kz
+Asia-Pacific,Kiribati,Submission of initial report to CAT ,Yes,2023.0,ki
+Asia-Pacific,Kyrgyzstan,Submission of initial report to CAT ,Yes,1999.0,kg
+Asia-Pacific,Lao People's Democratic Republic,Submission of initial report to CAT ,No,,la
+Asia-Pacific,Marshall Islands,Submission of initial report to CAT ,No,,mh
+Asia-Pacific,Malaysia,Submission of initial report to CAT ,No,,my
+Asia-Pacific,Maldives,Submission of initial report to CAT ,Yes,2017.0,mv
+Asia-Pacific,Micronesia,Submission of initial report to CAT ,No,,fm
+Asia-Pacific,Mongolia,Submission of initial report to CAT ,Yes,2015.0,mn
+Asia-Pacific,Myanmar,Submission of initial report to CAT ,No,,mm
+Asia-Pacific,Nauru,Submission of initial report to CAT ,No,,nr
+Asia-Pacific,Nepal,Submission of initial report to CAT ,Yes,1993.0,np
+Asia-Pacific,New Zealand,Submission of initial report to CAT ,Yes,1992.0,nz
+Asia-Pacific,Niue,Submission of initial report to CAT ,No,,nu
+Asia-Pacific,Palau,Submission of initial report to CAT ,No,,pw
+Asia-Pacific,Papua New Guinea,Submission of initial report to CAT ,No,,pg
+Asia-Pacific,Pakistan,Submission of initial report to CAT ,Yes,2016.0,pk
+Asia-Pacific,Philippines,Submission of initial report to CAT ,Yes,2008.0,ph
+Asia-Pacific,Republic of Korea,Submission of initial report to CAT ,Yes,1996.0,kr
+Asia-Pacific,Samoa,Submission of initial report to CAT ,No,,ws
+Asia-Pacific,Solomon Islands,Submission of initial report to CAT ,No,,sb
+Asia-Pacific,Singapore,Submission of initial report to CAT ,No,,sg
+Asia-Pacific,Sri Lanka,Submission of initial report to CAT ,Yes,1997.0,lk
+Asia-Pacific,Tajikistan,Submission of initial report to CAT ,Yes,2005.0,tj
+Asia-Pacific,Thailand,Submission of initial report to CAT ,Yes,2013.0,th
+Asia-Pacific,Timor-Leste,Submission of initial report to CAT ,Yes,2013.0,tl
+Asia-Pacific,Tonga,Submission of initial report to CAT ,No,,to
+Asia-Pacific,Turkmenistan,Submission of initial report to CAT ,Yes,2010.0,tm
+Asia-Pacific,Tuvalu,Submission of initial report to CAT ,No,,tv
+Asia-Pacific,Uzbekistan,Submission of initial report to CAT ,Yes,1999.0,uz
+Asia-Pacific,Vanuatu,Submission of initial report to CAT ,No,,vu
+Asia-Pacific,Viet Nam,Submission of initial report to CAT ,Yes,2017.0,vn
+Americas,Antigua and Barbuda,Prohibition of torture in the constitution ,Yes,1984.0,ag
+Americas,Argentina,Prohibition of torture in the constitution ,Yes,1984.0,ar
+Americas,Bahamas,Prohibition of torture in the constitution ,Yes,1984.0,bs
+Americas,Barbados,Prohibition of torture in the constitution ,Yes,2007.0,bb
+Americas,Belize,Prohibition of torture in the constitution ,Yes,2011.0,bz
+Americas,Bolivia,Prohibition of torture in the constitution ,Yes,2009.0,bo
+Americas,Brazil,Prohibition of torture in the constitution ,Yes,1988.0,br
+Americas,Canada,Prohibition of torture in the constitution ,No,,ca
+Americas,Chile,Prohibition of torture in the constitution ,Yes,2023.0,cl
+Americas,Colombia,Prohibition of torture in the constitution ,Yes,1995.0,co
+Americas,Costa Rica,Prohibition of torture in the constitution ,Yes,2022.0,cr
+Americas,Cuba,Prohibition of torture in the constitution ,Yes,2019.0,cu
+Americas,Dominica,Prohibition of torture in the constitution ,Yes,1991.0,dm
+Americas,Dominican Republic,Prohibition of torture in the constitution ,Yes,2015.0,do
+Americas,Ecuador,Prohibition of torture in the constitution ,Yes,2008.0,ec
+Americas,El Salvador,Prohibition of torture in the constitution ,Yes,2003.0,sv
+Americas,Grenada,Prohibition of torture in the constitution ,Yes,1991.0,gd
+Americas,Guatemala,Prohibition of torture in the constitution ,Yes,1985.0,gt
+Americas,Guyana,Prohibition of torture in the constitution ,Yes,1984.0,gy
+Americas,Haiti,Prohibition of torture in the constitution ,Yes,1987.0,ht
+Americas,Honduras,Prohibition of torture in the constitution ,Yes,1984.0,hn
+Americas,Jamaica,Prohibition of torture in the constitution ,Yes,2011.0,jm
+Americas,Mexico,Prohibition of torture in the constitution ,Yes,2008.0,mx
+Americas,Nicaragua,Prohibition of torture in the constitution ,Yes,1987.0,ni
+Americas,Panama,Prohibition of torture in the constitution ,No,,pa
+Americas,Paraguay,Prohibition of torture in the constitution ,Yes,1992.0,py
+Americas,Peru,Prohibition of torture in the constitution ,Yes,1993.0,pe
+Americas,Saint Kitts and Nevis,Prohibition of torture in the constitution ,Yes,1984.0,kn
+Americas,Saint Lucia,Prohibition of torture in the constitution ,Yes,1984.0,lc
+Americas,Saint Vincent and the Grenadines,Prohibition of torture in the constitution ,Yes,1984.0,vc
+Americas,Suriname,Prohibition of torture in the constitution ,Yes,1987.0,sr
+Americas,Trinidad and Tobago,Prohibition of torture in the constitution ,No,,tt
+Americas,United States,Prohibition of torture in the constitution ,No,,us
+Americas,Uruguay,Prohibition of torture in the constitution ,No,,uy
+Americas,Venezuela,Prohibition of torture in the constitution ,Yes,1999.0,ve
+Africa,Algeria,Prohibition of torture in the constitution ,Yes,2020.0,dz
+Africa,Angola,Prohibition of torture in the constitution ,Yes,2010.0,ao
+Africa,Benin,Prohibition of torture in the constitution ,Yes,1990.0,bj
+Africa,Botswana,Prohibition of torture in the constitution ,Yes,1996.0,bw
+Africa,Burkina Faso,Prohibition of torture in the constitution ,Yes,1991.0,bf
+Africa,Burundi,Prohibition of torture in the constitution ,Yes,2018.0,bi
+Africa,Cabo Verde,Prohibition of torture in the constitution ,Yes,1992.0,cv
+Africa,Cameroon,Prohibition of torture in the constitution ,Yes,1972.0,cm
+Africa,Central African Republic,Prohibition of torture in the constitution ,Yes,2016.0,cf
+Africa,Chad,Prohibition of torture in the constitution ,Yes,2018.0,td
+Africa,Comoros,Prohibition of torture in the constitution ,Yes,2018.0,km
+Africa,Congo,Prohibition of torture in the constitution ,Yes,2015.0,cg
+Africa,Cote d'Ivoire,Prohibition of torture in the constitution ,Yes,2016.0,ci
+Africa,Democratic Republic of the Congo,Prohibition of torture in the constitution ,Yes,2011.0,cd
+Africa,Djibouti,Prohibition of torture in the constitution ,Yes,1992.0,dj
+Africa,Equatorial Guinea,Prohibition of torture in the constitution ,No,,gq
+Africa,Eritrea,Prohibition of torture in the constitution ,Yes,1997.0,er
+Africa,Ethiopia,Prohibition of torture in the constitution ,Yes,1994.0,et
+Africa,Gabon,Prohibition of torture in the constitution ,Yes,1991.0,ga
+Africa,Gambia,Prohibition of torture in the constitution ,Yes,1996.0,gm
+Africa,Ghana,Prohibition of torture in the constitution ,Yes,1996.0,gh
+Africa,Guinea,Prohibition of torture in the constitution ,Yes,2010.0,gn
+Africa,Guinea-Bissau,Prohibition of torture in the constitution ,Yes,1996.0,gw
+Africa,Kenya,Prohibition of torture in the constitution ,Yes,2010.0,ke
+Africa,Lesotho,Prohibition of torture in the constitution ,Yes,1993.0,ls
+Africa,Liberia,Prohibition of torture in the constitution ,Yes,1986.0,lr
+Africa,Madagascar,Prohibition of torture in the constitution ,Yes,2010.0,mg
+Africa,Malawi,Prohibition of torture in the constitution ,Yes,1994.0,mw
+Africa,Mali,Prohibition of torture in the constitution ,Yes,1992.0,ml
+Africa,Mauritania,Prohibition of torture in the constitution ,Yes,2012.0,mr
+Africa,Mozambique,Prohibition of torture in the constitution ,Yes,2004.0,mz
+Africa,Namibia,Prohibition of torture in the constitution ,Yes,1990.0,na
+Africa,Niger,Prohibition of torture in the constitution ,Yes,2010.0,ne
+Africa,Nigeria,Prohibition of torture in the constitution ,Yes,1999.0,ng
+Africa,Rwanda,Prohibition of torture in the constitution ,Yes,2003.0,rw
+Africa,Sao Tome and Principe,Prohibition of torture in the constitution ,Yes,2003.0,st
+Africa,Senegal,Prohibition of torture in the constitution ,Yes,2016.0,sn
+Africa,Seychelles,Prohibition of torture in the constitution ,Yes,2017.0,sc
+Africa,Sierra Leone,Prohibition of torture in the constitution ,Yes,2013.0,sl
+Africa,Somalia,Prohibition of torture in the constitution ,Yes,2012.0,so
+Africa,South Sudan,Prohibition of torture in the constitution ,Yes,2013.0,ss
+Africa,Sudan,Prohibition of torture in the constitution ,Yes,2019.0,sd
+Africa,Swaziland,Prohibition of torture in the constitution ,Yes,2005.0,sz
+Africa,Uganda,Prohibition of torture in the constitution ,Yes,1995.0,ug
+Africa,United Republic of Tanzania,Prohibition of torture in the constitution ,Yes,2005.0,tz
+Africa,Zambia,Prohibition of torture in the constitution ,Yes,2016.0,zm
+Africa,Zimbabwe,Prohibition of torture in the constitution ,Yes,2017.0,zw
+Africa,Mauritius,Prohibition of torture in the constitution ,Yes,1984.0,mu
+Africa,South Africa,Prohibition of torture in the constitution ,Yes,1996.0,za
+Africa,Togo,Prohibition of torture in the constitution ,Yes,2007.0,tg
+Europe,Albania,Prohibition of torture in the constitution ,Yes,1998.0,al
+Europe,Andorra,Prohibition of torture in the constitution ,Yes,1993.0,ad
+Europe,Austria,Prohibition of torture in the constitution ,No,,at
+Europe,Armenia,Prohibition of torture in the constitution ,Yes,1995.0,am
+Europe,Belarus,Prohibition of torture in the constitution ,Yes,2004.0,by
+Europe,Belgium,Prohibition of torture in the constitution ,No,,be
+Europe,Bulgaria,Prohibition of torture in the constitution ,Yes,1991.0,bg
+Europe,Croatia,Prohibition of torture in the constitution ,Yes,1991.0,hr
+Europe,Cyprus,Prohibition of torture in the constitution ,Yes,1984.0,cy
+Europe,France,Prohibition of torture in the constitution ,No,,fr
+Europe,Czech Republic,Prohibition of torture in the constitution ,Yes,1993.0,cz
+Europe,Denmark,Prohibition of torture in the constitution ,No,,dk
+Europe,Estonia,Prohibition of torture in the constitution ,Yes,1992.0,ee
+Europe,Finland,Prohibition of torture in the constitution ,Yes,1999.0,fi
+Europe,Georgia,Prohibition of torture in the constitution ,Yes,1995.0,ge
+Europe,Germany,Prohibition of torture in the constitution ,Yes,1984.0,de
+Europe,Greece,Prohibition of torture in the constitution ,Yes,1984.0,gr
+Europe,Holy See,Prohibition of torture in the constitution ,No,,va
+Europe,Hungary,Prohibition of torture in the constitution ,Yes,2011.0,hu
+Europe,Iceland,Prohibition of torture in the constitution ,Yes,1991.0,is
+Europe,Italy,Prohibition of torture in the constitution ,Yes,1984.0,it
+Europe,Ireland,Prohibition of torture in the constitution ,No,,ie
+Europe,Latvia,Prohibition of torture in the constitution ,Yes,1984.0,lv
+Europe,Liechtenstein,Prohibition of torture in the constitution ,Yes,1984.0,li
+Europe,Lithuania,Prohibition of torture in the constitution ,Yes,1992.0,lt
+Europe,Luxembourg,Prohibition of torture in the constitution ,No,,lu
+Europe,North Macedonia,Prohibition of torture in the constitution ,Yes,1991.0,mk
+Europe,Romania,Prohibition of torture in the constitution ,Yes,1991.0,ro
+Europe,San Marino,Prohibition of torture in the constitution ,No,,sm
+Europe,Serbia,Prohibition of torture in the constitution ,Yes,2006.0,rs
+Europe,Slovakia,Prohibition of torture in the constitution ,Yes,1992.0,sk
+Europe,Slovenia,Prohibition of torture in the constitution ,Yes,1991.0,si
+Europe,Spain,Prohibition of torture in the constitution ,Yes,2011.0,es
+Europe,Sweden,Prohibition of torture in the constitution ,Yes,1984.0,se
+Europe,Switzerland,Prohibition of torture in the constitution ,Yes,1999.0,ch
+Europe,United Kingdom,Prohibition of torture in the constitution ,Yes,1998.0,gb
+Europe,Malta,Prohibition of torture in the constitution ,No,,mt
+Europe,Monaco,Prohibition of torture in the constitution ,No,,mc
+Europe,Montenegro,Prohibition of torture in the constitution ,Yes,2007.0,me
+Europe,Netherlands,Prohibition of torture in the constitution ,No,,nl
+Europe,Norway,Prohibition of torture in the constitution ,Yes,2016.0,no
+Europe,Poland,Prohibition of torture in the constitution ,Yes,1997.0,pl
+Europe,Portugal,Prohibition of torture in the constitution ,Yes,1984.0,pt
+Europe,Republic of Moldova,Prohibition of torture in the constitution ,Yes,1994.0,md
+Europe,Russia,Prohibition of torture in the constitution ,Yes,1993.0,ru
+Europe,Turkey,Prohibition of torture in the constitution ,Yes,1984.0,tr
+Europe,Ukraine,Prohibition of torture in the constitution ,Yes,1996.0,ua
+Middle East,Bahrain,Prohibition of torture in the constitution ,Yes,2002.0,bh
+Middle East,Egypt,Prohibition of torture in the constitution ,Yes,2014.0,eg
+Middle East,Iran,Prohibition of torture in the constitution ,Yes,1984.0,ir
+Middle East,Iraq,Prohibition of torture in the constitution ,Yes,2005.0,iq
+Middle East,Israel,Prohibition of torture in the constitution ,No,,il
+Middle East,Jordan,Prohibition of torture in the constitution ,Yes,2011.0,jo
+Middle East,Kuwait,Prohibition of torture in the constitution ,Yes,2012.0,kw
+Middle East,Lebanon,Prohibition of torture in the constitution ,No,,lb
+Middle East,Libya,Prohibition of torture in the constitution ,Yes,2011.0,ly
+Middle East,Morocco,Prohibition of torture in the constitution ,Yes,2011.0,ma
+Middle East,State of Palestine,Prohibition of torture in the constitution ,Yes,2003.0,ps
+Middle East,Oman,Prohibition of torture in the constitution ,Yes,1996.0,om
+Middle East,Qatar,Prohibition of torture in the constitution ,Yes,2003.0,qa
+Middle East,Saudi Arabia,Prohibition of torture in the constitution ,No,,sa
+Middle East,Syria ,Prohibition of torture in the constitution ,Yes,2012.0,sy
+Middle East,Tunisia,Prohibition of torture in the constitution ,Yes,2014.0,tn
+Middle East,United Arab Emirates,Prohibition of torture in the constitution ,Yes,1996.0,ae
+Middle East,Yemen,Prohibition of torture in the constitution ,Yes,2015.0,ye
+Asia-Pacific,Afghanistan,Prohibition of torture in the constitution ,Yes,2004.0,af
+Asia-Pacific,Australia,Prohibition of torture in the constitution ,No,,au
+Asia-Pacific,Azerbaijan,Prohibition of torture in the constitution ,Yes,1995.0,az
+Asia-Pacific,Bangladesh,Prohibition of torture in the constitution ,Yes,1986.0,bd
+Asia-Pacific,Bhutan,Prohibition of torture in the constitution ,Yes,2008.0,bt
+Asia-Pacific,Brunei Darussalam,Prohibition of torture in the constitution ,No,,bn
+Asia-Pacific,Cambodia,Prohibition of torture in the constitution ,Yes,1993.0,kh
+Asia-Pacific,China,Prohibition of torture in the constitution ,No,,cn
+Asia-Pacific,Cook Islands,Prohibition of torture in the constitution ,No,,ck
+Asia-Pacific,Fiji,Prohibition of torture in the constitution ,Yes,2013.0,fj
+Asia-Pacific,Democratic People's Republic of Korea,Prohibition of torture in the constitution ,No,,kp
+Asia-Pacific,India,Prohibition of torture in the constitution ,No,,in
+Asia-Pacific,Indonesia,Prohibition of torture in the constitution ,Yes,2000.0,id
+Asia-Pacific,Japan,Prohibition of torture in the constitution ,Yes,1984.0,jp
+Asia-Pacific,Kazakhstan,Prohibition of torture in the constitution ,Yes,1995.0,kz
+Asia-Pacific,Kiribati,Prohibition of torture in the constitution ,Yes,1995.0,ki
+Asia-Pacific,Kyrgyzstan,Prohibition of torture in the constitution ,Yes,2010.0,kg
+Asia-Pacific,Lao People's Democratic Republic,Prohibition of torture in the constitution ,No,,la
+Asia-Pacific,Marshall Islands,Prohibition of torture in the constitution ,Yes,1995.0,mh
+Asia-Pacific,Malaysia,Prohibition of torture in the constitution ,No,,my
+Asia-Pacific,Maldives,Prohibition of torture in the constitution ,Yes,2008.0,mv
+Asia-Pacific,Micronesia,Prohibition of torture in the constitution ,No,,fm
+Asia-Pacific,Mongolia,Prohibition of torture in the constitution ,Yes,1992.0,mn
+Asia-Pacific,Myanmar,Prohibition of torture in the constitution ,No,,mm
+Asia-Pacific,Nauru,Prohibition of torture in the constitution ,Yes,2016.0,nr
+Asia-Pacific,Nepal,Prohibition of torture in the constitution ,Yes,2015.0,np
+Asia-Pacific,New Zealand,Prohibition of torture in the constitution ,Yes,1984.0,nz
+Asia-Pacific,Niue,Prohibition of torture in the constitution ,No,,nu
+Asia-Pacific,Palau,Prohibition of torture in the constitution ,Yes,1992.0,pw
+Asia-Pacific,Papua New Guinea,Prohibition of torture in the constitution ,Yes,2013.0,pg
+Asia-Pacific,Pakistan,Prohibition of torture in the constitution ,Yes,2002.0,pk
+Asia-Pacific,Philippines,Prohibition of torture in the constitution ,Yes,1987.0,ph
+Asia-Pacific,Republic of Korea,Prohibition of torture in the constitution ,Yes,1987.0,kr
+Asia-Pacific,Samoa,Prohibition of torture in the constitution ,Yes,1984.0,ws
+Asia-Pacific,Solomon Islands,Prohibition of torture in the constitution ,Yes,2018.0,sb
+Asia-Pacific,Singapore,Prohibition of torture in the constitution ,No,,sg
+Asia-Pacific,Sri Lanka,Prohibition of torture in the constitution ,Yes,1984.0,lk
+Asia-Pacific,Tajikistan,Prohibition of torture in the constitution ,Yes,1994.0,tj
+Asia-Pacific,Thailand,Prohibition of torture in the constitution ,Yes,2017.0,th
+Asia-Pacific,Timor-Leste,Prohibition of torture in the constitution ,Yes,1987.0,tl
+Asia-Pacific,Tonga,Prohibition of torture in the constitution ,No,,to
+Asia-Pacific,Turkmenistan,Prohibition of torture in the constitution ,Yes,2008.0,tm
+Asia-Pacific,Tuvalu,Prohibition of torture in the constitution ,Yes,1986.0,tv
+Asia-Pacific,Uzbekistan,Prohibition of torture in the constitution ,Yes,1992.0,uz
+Asia-Pacific,Vanuatu,Prohibition of torture in the constitution ,No,,vu
+Asia-Pacific,Viet Nam,Prohibition of torture in the constitution ,Yes,1994.0,vn
+Americas,Antigua and Barbuda,Criminalisation of torture under domestic law,Partially,1993.0,ag
+Americas,Argentina,Criminalisation of torture under domestic law,Yes,1984.0,ar
+Americas,Bahamas,Criminalisation of torture under domestic law,Partially,2001.0,bs
+Americas,Barbados,Criminalisation of torture under domestic law,No,,bb
+Americas,Belize,Criminalisation of torture under domestic law,Partially,2011.0,bz
+Americas,Bolivia,Criminalisation of torture under domestic law,Partially,1997.0,bo
+Americas,Brazil,Criminalisation of torture under domestic law,Yes,1997.0,br
+Americas,Canada,Criminalisation of torture under domestic law,Yes,1985.0,ca
+Americas,Chile,Criminalisation of torture under domestic law,Partially,1984.0,cl
+Americas,Colombia,Criminalisation of torture under domestic law,Partially,1984.0,co
+Americas,Costa Rica,Criminalisation of torture under domestic law,Partially,1999.0,cr
+Americas,Cuba,Criminalisation of torture under domestic law,Yes,2022.0,cu
+Americas,Dominica,Criminalisation of torture under domestic law,No,,dm
+Americas,Dominican Republic,Criminalisation of torture under domestic law,Yes,1997.0,do
+Americas,Ecuador,Criminalisation of torture under domestic law,Partially,2007.0,ec
+Americas,El Salvador,Criminalisation of torture under domestic law,Partially,1998.0,sv
+Americas,Grenada,Criminalisation of torture under domestic law,Partially,1984.0,gd
+Americas,Guatemala,Criminalisation of torture under domestic law,Partially,1984.0,gt
+Americas,Guyana,Criminalisation of torture under domestic law,Partially,1984.0,gy
+Americas,Haiti,Criminalisation of torture under domestic law,No,,ht
+Americas,Honduras,Criminalisation of torture under domestic law,Partially,1986.0,hn
+Americas,Jamaica,Criminalisation of torture under domestic law,No,,jm
+Americas,Mexico,Criminalisation of torture under domestic law,Partially,1986.0,mx
+Americas,Nicaragua,Criminalisation of torture under domestic law,Partially,2008.0,ni
+Americas,Panama,Criminalisation of torture under domestic law,Yes,1987.0,pa
+Americas,Paraguay,Criminalisation of torture under domestic law,Partially,1997.0,py
+Americas,Peru,Criminalisation of torture under domestic law,Partially,1991.0,pe
+Americas,Saint Kitts and Nevis,Criminalisation of torture under domestic law,Partially,2017.0,kn
+Americas,Saint Lucia,Criminalisation of torture under domestic law,Partially,2005.0,lc
+Americas,Saint Vincent and the Grenadines,Criminalisation of torture under domestic law,No,,vc
+Americas,Suriname,Criminalisation of torture under domestic law,No,,sr
+Americas,Trinidad and Tobago,Criminalisation of torture under domestic law,No,,tt
+Americas,United States,Criminalisation of torture under domestic law,Yes,2014.0,us
+Americas,Uruguay,Criminalisation of torture under domestic law,Partially,2006.0,uy
+Americas,Venezuela,Criminalisation of torture under domestic law,Partially,2013.0,ve
+Africa,Algeria,Criminalisation of torture under domestic law,Partially,2006.0,dz
+Africa,Angola,Criminalisation of torture under domestic law,Yes,2020.0,ao
+Africa,Benin,Criminalisation of torture under domestic law,Partially,2018.0,bj
+Africa,Botswana,Criminalisation of torture under domestic law,Partially,2018.0,bw
+Africa,Burkina Faso,Criminalisation of torture under domestic law,Partially,2018.0,bf
+Africa,Burundi,Criminalisation of torture under domestic law,Yes,2009.0,bi
+Africa,Cabo Verde,Criminalisation of torture under domestic law,Partially,2021.0,cv
+Africa,Cameroon,Criminalisation of torture under domestic law,Partially,2016.0,cm
+Africa,Central African Republic,Criminalisation of torture under domestic law,No,,cf
+Africa,Chad,Criminalisation of torture under domestic law,Partially,2017.0,td
+Africa,Comoros,Criminalisation of torture under domestic law,Partially,1995.0,km
+Africa,Congo,Criminalisation of torture under domestic law,No,,cg
+Africa,Cote d'Ivoire,Criminalisation of torture under domestic law,Partially,2024.0,ci
+Africa,Democratic Republic of the Congo,Criminalisation of torture under domestic law,Partially,2008.0,cd
+Africa,Djibouti,Criminalisation of torture under domestic law,No,,dj
+Africa,Equatorial Guinea,Criminalisation of torture under domestic law,Yes,2006.0,gq
+Africa,Eritrea,Criminalisation of torture under domestic law,Partially,2019.0,er
+Africa,Ethiopia,Criminalisation of torture under domestic law,No,,et
+Africa,Gabon,Criminalisation of torture under domestic law,Partially,2019.0,ga
+Africa,Gambia,Criminalisation of torture under domestic law,Partially,2023.0,gm
+Africa,Ghana,Criminalisation of torture under domestic law,No,,gh
+Africa,Guinea,Criminalisation of torture under domestic law,Partially,1993.0,gn
+Africa,Guinea-Bissau,Criminalisation of torture under domestic law,No,,gw
+Africa,Kenya,Criminalisation of torture under domestic law,Partially,2017.0,ke
+Africa,Lesotho,Criminalisation of torture under domestic law,No,,ls
+Africa,Liberia,Criminalisation of torture under domestic law,No,,lr
+Africa,Madagascar,Criminalisation of torture under domestic law,Partially,2008.0,mg
+Africa,Malawi,Criminalisation of torture under domestic law,No,,mw
+Africa,Mali,Criminalisation of torture under domestic law,No,,ml
+Africa,Mauritania,Criminalisation of torture under domestic law,Yes,2015.0,mr
+Africa,Mozambique,Criminalisation of torture under domestic law,No,,mz
+Africa,Namibia,Criminalisation of torture under domestic law,Yes,2018.0,na
+Africa,Niger,Criminalisation of torture under domestic law,No,,ne
+Africa,Nigeria,Criminalisation of torture under domestic law,Partially,2017.0,ng
+Africa,Rwanda,Criminalisation of torture under domestic law,Partially,2012.0,rw
+Africa,Sao Tome and Principe,Criminalisation of torture under domestic law,Yes,2011.0,st
+Africa,Senegal,Criminalisation of torture under domestic law,Partially,1999.0,sn
+Africa,Seychelles,Criminalisation of torture under domestic law,No,,sc
+Africa,Sierra Leone,Criminalisation of torture under domestic law,No,,sl
+Africa,Somalia,Criminalisation of torture under domestic law,No,,so
+Africa,South Sudan,Criminalisation of torture under domestic law,No,,ss
+Africa,Sudan,Criminalisation of torture under domestic law,Partially,2019.0,sd
+Africa,Swaziland,Criminalisation of torture under domestic law,Partially,2018.0,sz
+Africa,Uganda,Criminalisation of torture under domestic law,Partially,2018.0,ug
+Africa,United Republic of Tanzania,Criminalisation of torture under domestic law,No,,tz
+Africa,Zambia,Criminalisation of torture under domestic law,No,,zm
+Africa,Zimbabwe,Criminalisation of torture under domestic law,No,,zw
+Africa,Mauritius,Criminalisation of torture under domestic law,Partially,2008.0,mu
+Africa,South Africa,Criminalisation of torture under domestic law,Partially,2013.0,za
+Africa,Togo,Criminalisation of torture under domestic law,Partially,2000.0,tg
+Europe,Albania,Criminalisation of torture under domestic law,Yes,2007.0,al
+Europe,Andorra,Criminalisation of torture under domestic law,Partially,2005.0,ad
+Europe,Austria,Criminalisation of torture under domestic law,Partially,1998.0,at
+Europe,Armenia,Criminalisation of torture under domestic law,No,,am
+Europe,Belarus,Criminalisation of torture under domestic law,No,,by
+Europe,Belgium,Criminalisation of torture under domestic law,Partially,2021.0,be
+Europe,Bulgaria,Criminalisation of torture under domestic law,No,,bg
+Europe,Croatia,Criminalisation of torture under domestic law,Yes,1996.0,hr
+Europe,Cyprus,Criminalisation of torture under domestic law,Yes,2002.0,cy
+Europe,France,Criminalisation of torture under domestic law,No,,fr
+Europe,Czech Republic,Criminalisation of torture under domestic law,Partially,2009.0,cz
+Europe,Denmark,Criminalisation of torture under domestic law,Partially,2005.0,dk
+Europe,Estonia,Criminalisation of torture under domestic law,Partially,2015.0,ee
+Europe,Finland,Criminalisation of torture under domestic law,Partially,2009.0,fi
+Europe,Georgia,Criminalisation of torture under domestic law,Partially,2005.0,ge
+Europe,Germany,Criminalisation of torture under domestic law,No,,de
+Europe,Greece,Criminalisation of torture under domestic law,Partially,2019.0,gr
+Europe,Holy See,Criminalisation of torture under domestic law,Partially,2013.0,va
+Europe,Hungary,Criminalisation of torture under domestic law,No,,hu
+Europe,Iceland,Criminalisation of torture under domestic law,No,,is
+Europe,Italy,Criminalisation of torture under domestic law,Yes,2017.0,it
+Europe,Ireland,Criminalisation of torture under domestic law,No,,ie
+Europe,Latvia,Criminalisation of torture under domestic law,Partially,2020.0,lv
+Europe,Liechtenstein,Criminalisation of torture under domestic law,Partially,2019.0,li
+Europe,Lithuania,Criminalisation of torture under domestic law,Yes,2015.0,lt
+Europe,Luxembourg,Criminalisation of torture under domestic law,Partially,2019.0,lu
+Europe,North Macedonia,Criminalisation of torture under domestic law,Partially,2023.0,mk
+Europe,Romania,Criminalisation of torture under domestic law,Yes,2014.0,ro
+Europe,San Marino,Criminalisation of torture under domestic law,No,,sm
+Europe,Serbia,Criminalisation of torture under domestic law,No,,rs
+Europe,Slovakia,Criminalisation of torture under domestic law,No,,sk
+Europe,Slovenia,Criminalisation of torture under domestic law,Partially,2012.0,si
+Europe,Spain,Criminalisation of torture under domestic law,Partially,1995.0,es
+Europe,Sweden,Criminalisation of torture under domestic law,No,,se
+Europe,Switzerland,Criminalisation of torture under domestic law,Partially,2005.0,ch
+Europe,United Kingdom,Criminalisation of torture under domestic law,Partially,1998.0,gb
+Europe,Malta,Criminalisation of torture under domestic law,Partially,1990.0,mt
+Europe,Monaco,Criminalisation of torture under domestic law,Partially,2020.0,mc
+Europe,Montenegro,Criminalisation of torture under domestic law,Partially,2021.0,me
+Europe,Netherlands,Criminalisation of torture under domestic law,Partially,2003.0,nl
+Europe,Norway,Criminalisation of torture under domestic law,Partially,2008.0,no
+Europe,Poland,Criminalisation of torture under domestic law,No,,pl
+Europe,Portugal,Criminalisation of torture under domestic law,Partially,2006.0,pt
+Europe,Republic of Moldova,Criminalisation of torture under domestic law,Yes,2010.0,md
+Europe,Russia,Criminalisation of torture under domestic law,No,,ru
+Europe,Turkey,Criminalisation of torture under domestic law,Partially,2004.0,tr
+Europe,Ukraine,Criminalisation of torture under domestic law,Partially,2001.0,ua
+Middle East,Bahrain,Criminalisation of torture under domestic law,Yes,1984.0,bh
+Middle East,Egypt,Criminalisation of torture under domestic law,Partially,1992.0,eg
+Middle East,Iran,Criminalisation of torture under domestic law,No,,ir
+Middle East,Iraq,Criminalisation of torture under domestic law,No,,iq
+Middle East,Israel,Criminalisation of torture under domestic law,No,,il
+Middle East,Jordan,Criminalisation of torture under domestic law,Partially,2017.0,jo
+Middle East,Kuwait,Criminalisation of torture under domestic law,No,,kw
+Middle East,Lebanon,Criminalisation of torture under domestic law,Partially,2009.0,lb
+Middle East,Libya,Criminalisation of torture under domestic law,No,,ly
+Middle East,Morocco,Criminalisation of torture under domestic law,Partially,2006.0,ma
+Middle East,State of Palestine,Criminalisation of torture under domestic law,Partially,2003.0,ps
+Middle East,Oman,Criminalisation of torture under domestic law,Partially,2020.0,om
+Middle East,Qatar,Criminalisation of torture under domestic law,Partially,2014.0,qa
+Middle East,Saudi Arabia,Criminalisation of torture under domestic law,Partially,2013.0,sa
+Middle East,Syria ,Criminalisation of torture under domestic law,Partially,2008.0,sy
+Middle East,Tunisia,Criminalisation of torture under domestic law,Partially,1984.0,tn
+Middle East,United Arab Emirates,Criminalisation of torture under domestic law,Partially,1987.0,ae
+Middle East,Yemen,Criminalisation of torture under domestic law,No,,ye
+Asia-Pacific,Afghanistan,Criminalisation of torture under domestic law,Partially,2021.0,af
+Asia-Pacific,Australia,Criminalisation of torture under domestic law,Yes,2010.0,au
+Asia-Pacific,Azerbaijan,Criminalisation of torture under domestic law,Partially,1999.0,az
+Asia-Pacific,Bangladesh,Criminalisation of torture under domestic law,No,,bd
+Asia-Pacific,Bhutan,Criminalisation of torture under domestic law,Partially,2004.0,bt
+Asia-Pacific,Brunei Darussalam,Criminalisation of torture under domestic law,No,,bn
+Asia-Pacific,Cambodia,Criminalisation of torture under domestic law,Partially,2009.0,kh
+Asia-Pacific,China,Criminalisation of torture under domestic law,Partially,2014.0,cn
+Asia-Pacific,Cook Islands,Criminalisation of torture under domestic law,No,,ck
+Asia-Pacific,Fiji,Criminalisation of torture under domestic law,Partially,2009.0,fj
+Asia-Pacific,Democratic People's Republic of Korea,Criminalisation of torture under domestic law,No,,kp
+Asia-Pacific,India,Criminalisation of torture under domestic law,No,,in
+Asia-Pacific,Indonesia,Criminalisation of torture under domestic law,No,,id
+Asia-Pacific,Japan,Criminalisation of torture under domestic law,Partially,2006.0,jp
+Asia-Pacific,Kazakhstan,Criminalisation of torture under domestic law,Partially,2023.0,kz
+Asia-Pacific,Kiribati,Criminalisation of torture under domestic law,No,,ki
+Asia-Pacific,Kyrgyzstan,Criminalisation of torture under domestic law,Partially,2021.0,kg
+Asia-Pacific,Lao People's Democratic Republic,Criminalisation of torture under domestic law,No,,la
+Asia-Pacific,Marshall Islands,Criminalisation of torture under domestic law,No,,mh
+Asia-Pacific,Malaysia,Criminalisation of torture under domestic law,No,,my
+Asia-Pacific,Maldives,Criminalisation of torture under domestic law,Yes,2013.0,mv
+Asia-Pacific,Micronesia,Criminalisation of torture under domestic law,No,,fm
+Asia-Pacific,Mongolia,Criminalisation of torture under domestic law,Partially,2015.0,mn
+Asia-Pacific,Myanmar,Criminalisation of torture under domestic law,Partially,1984.0,mm
+Asia-Pacific,Nauru,Criminalisation of torture under domestic law,No,,nr
+Asia-Pacific,Nepal,Criminalisation of torture under domestic law,Partially,2018.0,np
+Asia-Pacific,New Zealand,Criminalisation of torture under domestic law,Yes,1989.0,nz
+Asia-Pacific,Niue,Criminalisation of torture under domestic law,No,,nu
+Asia-Pacific,Palau,Criminalisation of torture under domestic law,No,,pw
+Asia-Pacific,Papua New Guinea,Criminalisation of torture under domestic law,No,,pg
+Asia-Pacific,Pakistan,Criminalisation of torture under domestic law,Partially,2002.0,pk
+Asia-Pacific,Philippines,Criminalisation of torture under domestic law,Yes,2009.0,ph
+Asia-Pacific,Republic of Korea,Criminalisation of torture under domestic law,Partially,1998.0,kr
+Asia-Pacific,Samoa,Criminalisation of torture under domestic law,No,,ws
+Asia-Pacific,Solomon Islands,Criminalisation of torture under domestic law,No,,sb
+Asia-Pacific,Singapore,Criminalisation of torture under domestic law,No,,sg
+Asia-Pacific,Sri Lanka,Criminalisation of torture under domestic law,Partially,1984.0,lk
+Asia-Pacific,Tajikistan,Criminalisation of torture under domestic law,Partially,2012.0,tj
+Asia-Pacific,Thailand,Criminalisation of torture under domestic law,Yes,2022.0,th
+Asia-Pacific,Timor-Leste,Criminalisation of torture under domestic law,Yes,2009.0,tl
+Asia-Pacific,Tonga,Criminalisation of torture under domestic law,No,,to
+Asia-Pacific,Turkmenistan,Criminalisation of torture under domestic law,Yes,2012.0,tm
+Asia-Pacific,Tuvalu,Criminalisation of torture under domestic law,No,,tv
+Asia-Pacific,Uzbekistan,Criminalisation of torture under domestic law,Partially,2008.0,uz
+Asia-Pacific,Vanuatu,Criminalisation of torture under domestic law,No,,vu
+Asia-Pacific,Viet Nam,Criminalisation of torture under domestic law,No,,vn
+Americas,Antigua and Barbuda,Designation of the National Preventive Mechanism (in law) ,No,,ag
+Americas,Argentina,Designation of the National Preventive Mechanism (in law) ,Yes,2013.0,ar
+Americas,Bahamas,Designation of the National Preventive Mechanism (in law) ,No,,bs
+Americas,Barbados,Designation of the National Preventive Mechanism (in law) ,No,,bb
+Americas,Belize,Designation of the National Preventive Mechanism (in law) ,No,,bz
+Americas,Bolivia,Designation of the National Preventive Mechanism (in law) ,Yes,2013.0,bo
+Americas,Brazil,Designation of the National Preventive Mechanism (in law) ,Yes,2013.0,br
+Americas,Canada,Designation of the National Preventive Mechanism (in law) ,No,,ca
+Americas,Chile,Designation of the National Preventive Mechanism (in law) ,Yes,2020.0,cl
+Americas,Colombia,Designation of the National Preventive Mechanism (in law) ,No,,co
+Americas,Costa Rica,Designation of the National Preventive Mechanism (in law) ,Yes,2006.0,cr
+Americas,Cuba,Designation of the National Preventive Mechanism (in law) ,No,,cu
+Americas,Dominica,Designation of the National Preventive Mechanism (in law) ,No,,dm
+Americas,Dominican Republic,Designation of the National Preventive Mechanism (in law) ,No,,do
+Americas,Ecuador,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,ec
+Americas,El Salvador,Designation of the National Preventive Mechanism (in law) ,No,,sv
+Americas,Grenada,Designation of the National Preventive Mechanism (in law) ,No,,gd
+Americas,Guatemala,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,gt
+Americas,Guyana,Designation of the National Preventive Mechanism (in law) ,No,,gy
+Americas,Haiti,Designation of the National Preventive Mechanism (in law) ,No,,ht
+Americas,Honduras,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,hn
+Americas,Jamaica,Designation of the National Preventive Mechanism (in law) ,No,,jm
+Americas,Mexico,Designation of the National Preventive Mechanism (in law) ,Yes,2007.0,mx
+Americas,Nicaragua,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,ni
+Americas,Panama,Designation of the National Preventive Mechanism (in law) ,Yes,2017.0,pa
+Americas,Paraguay,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,py
+Americas,Peru,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,pe
+Americas,Saint Kitts and Nevis,Designation of the National Preventive Mechanism (in law) ,No,,kn
+Americas,Saint Lucia,Designation of the National Preventive Mechanism (in law) ,No,,lc
+Americas,Saint Vincent and the Grenadines,Designation of the National Preventive Mechanism (in law) ,No,,vc
+Americas,Suriname,Designation of the National Preventive Mechanism (in law) ,No,,sr
+Americas,Trinidad and Tobago,Designation of the National Preventive Mechanism (in law) ,No,,tt
+Americas,United States,Designation of the National Preventive Mechanism (in law) ,No,,us
+Americas,Uruguay,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,uy
+Americas,Venezuela,Designation of the National Preventive Mechanism (in law) ,No,,ve
+Africa,Algeria,Designation of the National Preventive Mechanism (in law) ,No,,dz
+Africa,Angola,Designation of the National Preventive Mechanism (in law) ,No,,ao
+Africa,Benin,Designation of the National Preventive Mechanism (in law) ,No,,bj
+Africa,Botswana,Designation of the National Preventive Mechanism (in law) ,No,,bw
+Africa,Burkina Faso,Designation of the National Preventive Mechanism (in law) ,Yes,2022.0,bf
+Africa,Burundi,Designation of the National Preventive Mechanism (in law) ,No,,bi
+Africa,Cabo Verde,Designation of the National Preventive Mechanism (in law) ,Yes,2018.0,cv
+Africa,Cameroon,Designation of the National Preventive Mechanism (in law) ,No,,cm
+Africa,Central African Republic,Designation of the National Preventive Mechanism (in law) ,No,,cf
+Africa,Chad,Designation of the National Preventive Mechanism (in law) ,No,,td
+Africa,Comoros,Designation of the National Preventive Mechanism (in law) ,No,,km
+Africa,Congo,Designation of the National Preventive Mechanism (in law) ,No,,cg
+Africa,Cote d'Ivoire,Designation of the National Preventive Mechanism (in law) ,No,,ci
+Africa,Democratic Republic of the Congo,Designation of the National Preventive Mechanism (in law) ,No,,cd
+Africa,Djibouti,Designation of the National Preventive Mechanism (in law) ,No,,dj
+Africa,Equatorial Guinea,Designation of the National Preventive Mechanism (in law) ,No,,gq
+Africa,Eritrea,Designation of the National Preventive Mechanism (in law) ,No,,er
+Africa,Ethiopia,Designation of the National Preventive Mechanism (in law) ,No,,et
+Africa,Gabon,Designation of the National Preventive Mechanism (in law) ,No,,ga
+Africa,Gambia,Designation of the National Preventive Mechanism (in law) ,No,,gm
+Africa,Ghana,Designation of the National Preventive Mechanism (in law) ,No,,gh
+Africa,Guinea,Designation of the National Preventive Mechanism (in law) ,No,,gn
+Africa,Guinea-Bissau,Designation of the National Preventive Mechanism (in law) ,No,,gw
+Africa,Kenya,Designation of the National Preventive Mechanism (in law) ,No,,ke
+Africa,Lesotho,Designation of the National Preventive Mechanism (in law) ,No,,ls
+Africa,Liberia,Designation of the National Preventive Mechanism (in law) ,No,,lr
+Africa,Madagascar,Designation of the National Preventive Mechanism (in law) ,Yes,2019.0,mg
+Africa,Malawi,Designation of the National Preventive Mechanism (in law) ,No,,mw
+Africa,Mali,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,ml
+Africa,Mauritania,Designation of the National Preventive Mechanism (in law) ,Yes,2014.0,mr
+Africa,Mozambique,Designation of the National Preventive Mechanism (in law) ,Yes,2013.0,mz
+Africa,Namibia,Designation of the National Preventive Mechanism (in law) ,No,,na
+Africa,Niger,Designation of the National Preventive Mechanism (in law) ,Yes,2020.0,ne
+Africa,Nigeria,Designation of the National Preventive Mechanism (in law) ,Yes,2024.0,ng
+Africa,Rwanda,Designation of the National Preventive Mechanism (in law) ,Yes,2020.0,rw
+Africa,Sao Tome and Principe,Designation of the National Preventive Mechanism (in law) ,No,,st
+Africa,Senegal,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,sn
+Africa,Seychelles,Designation of the National Preventive Mechanism (in law) ,No,,sc
+Africa,Sierra Leone,Designation of the National Preventive Mechanism (in law) ,No,,sl
+Africa,Somalia,Designation of the National Preventive Mechanism (in law) ,No,,so
+Africa,South Sudan,Designation of the National Preventive Mechanism (in law) ,No,,ss
+Africa,Sudan,Designation of the National Preventive Mechanism (in law) ,No,,sd
+Africa,Swaziland,Designation of the National Preventive Mechanism (in law) ,No,,sz
+Africa,Uganda,Designation of the National Preventive Mechanism (in law) ,No,,ug
+Africa,United Republic of Tanzania,Designation of the National Preventive Mechanism (in law) ,No,,tz
+Africa,Zambia,Designation of the National Preventive Mechanism (in law) ,No,,zm
+Africa,Zimbabwe,Designation of the National Preventive Mechanism (in law) ,No,,zw
+Africa,Mauritius,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,mu
+Africa,South Africa,Designation of the National Preventive Mechanism (in law) ,Yes,2020.0,za
+Africa,Togo,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,tg
+Europe,Albania,Designation of the National Preventive Mechanism (in law) ,Yes,2008.0,al
+Europe,Andorra,Designation of the National Preventive Mechanism (in law) ,No,,ad
+Europe,Austria,Designation of the National Preventive Mechanism (in law) ,Yes,2013.0,at
+Europe,Armenia,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,am
+Europe,Belarus,Designation of the National Preventive Mechanism (in law) ,No,,by
+Europe,Belgium,Designation of the National Preventive Mechanism (in law) ,No,,be
+Europe,Bulgaria,Designation of the National Preventive Mechanism (in law) ,Yes,2013.0,bg
+Europe,Croatia,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,hr
+Europe,Cyprus,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,cy
+Europe,France,Designation of the National Preventive Mechanism (in law) ,Yes,2007.0,fr
+Europe,Czech Republic,Designation of the National Preventive Mechanism (in law) ,Yes,2006.0,cz
+Europe,Denmark,Designation of the National Preventive Mechanism (in law) ,Yes,2007.0,dk
+Europe,Estonia,Designation of the National Preventive Mechanism (in law) ,Yes,2008.0,ee
+Europe,Finland,Designation of the National Preventive Mechanism (in law) ,Yes,2014.0,fi
+Europe,Georgia,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,ge
+Europe,Germany,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,de
+Europe,Greece,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,gr
+Europe,Holy See,Designation of the National Preventive Mechanism (in law) ,No,,va
+Europe,Hungary,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,hu
+Europe,Iceland,Designation of the National Preventive Mechanism (in law) ,Yes,2020.0,is
+Europe,Italy,Designation of the National Preventive Mechanism (in law) ,Yes,2014.0,it
+Europe,Ireland,Designation of the National Preventive Mechanism (in law) ,No,,ie
+Europe,Latvia,Designation of the National Preventive Mechanism (in law) ,Yes,2021.0,lv
+Europe,Liechtenstein,Designation of the National Preventive Mechanism (in law) ,Yes,2008.0,li
+Europe,Lithuania,Designation of the National Preventive Mechanism (in law) ,Yes,2014.0,lt
+Europe,Luxembourg,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,lu
+Europe,North Macedonia,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,mk
+Europe,Romania,Designation of the National Preventive Mechanism (in law) ,Yes,2015.0,ro
+Europe,San Marino,Designation of the National Preventive Mechanism (in law) ,No,,sm
+Europe,Serbia,Designation of the National Preventive Mechanism (in law) ,Yes,2008.0,rs
+Europe,Slovakia,Designation of the National Preventive Mechanism (in law) ,Yes,2024.0,sk
+Europe,Slovenia,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,si
+Europe,Spain,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,es
+Europe,Sweden,Designation of the National Preventive Mechanism (in law) ,Yes,2007.0,se
+Europe,Switzerland,Designation of the National Preventive Mechanism (in law) ,Yes,2010.0,ch
+Europe,United Kingdom,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,gb
+Europe,Malta,Designation of the National Preventive Mechanism (in law) ,Yes,2008.0,mt
+Europe,Monaco,Designation of the National Preventive Mechanism (in law) ,No,,mc
+Europe,Montenegro,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,me
+Europe,Netherlands,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,nl
+Europe,Norway,Designation of the National Preventive Mechanism (in law) ,Yes,2014.0,no
+Europe,Poland,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,pl
+Europe,Portugal,Designation of the National Preventive Mechanism (in law) ,Yes,2013.0,pt
+Europe,Republic of Moldova,Designation of the National Preventive Mechanism (in law) ,Yes,2007.0,md
+Europe,Russia,Designation of the National Preventive Mechanism (in law) ,No,,ru
+Europe,Turkey,Designation of the National Preventive Mechanism (in law) ,Yes,2014.0,tr
+Europe,Ukraine,Designation of the National Preventive Mechanism (in law) ,Yes,2012.0,ua
+Middle East,Bahrain,Designation of the National Preventive Mechanism (in law) ,No,,bh
+Middle East,Egypt,Designation of the National Preventive Mechanism (in law) ,No,,eg
+Middle East,Iran,Designation of the National Preventive Mechanism (in law) ,No,,ir
+Middle East,Iraq,Designation of the National Preventive Mechanism (in law) ,No,,iq
+Middle East,Israel,Designation of the National Preventive Mechanism (in law) ,No,,il
+Middle East,Jordan,Designation of the National Preventive Mechanism (in law) ,No,,jo
+Middle East,Kuwait,Designation of the National Preventive Mechanism (in law) ,No,,kw
+Middle East,Lebanon,Designation of the National Preventive Mechanism (in law) ,Yes,2016.0,lb
+Middle East,Libya,Designation of the National Preventive Mechanism (in law) ,No,,ly
+Middle East,Morocco,Designation of the National Preventive Mechanism (in law) ,Yes,2018.0,ma
+Middle East,State of Palestine,Designation of the National Preventive Mechanism (in law) ,No,,ps
+Middle East,Oman,Designation of the National Preventive Mechanism (in law) ,No,,om
+Middle East,Qatar,Designation of the National Preventive Mechanism (in law) ,No,,qa
+Middle East,Saudi Arabia,Designation of the National Preventive Mechanism (in law) ,No,,sa
+Middle East,Syria ,Designation of the National Preventive Mechanism (in law) ,No,,sy
+Middle East,Tunisia,Designation of the National Preventive Mechanism (in law) ,Yes,2014.0,tn
+Middle East,United Arab Emirates,Designation of the National Preventive Mechanism (in law) ,No,,ae
+Middle East,Yemen,Designation of the National Preventive Mechanism (in law) ,No,,ye
+Asia-Pacific,Afghanistan,Designation of the National Preventive Mechanism (in law) ,No,,af
+Asia-Pacific,Australia,Designation of the National Preventive Mechanism (in law) ,Yes,2019.0,au
+Asia-Pacific,Azerbaijan,Designation of the National Preventive Mechanism (in law) ,Yes,2009.0,az
+Asia-Pacific,Bangladesh,Designation of the National Preventive Mechanism (in law) ,No,,bd
+Asia-Pacific,Bhutan,Designation of the National Preventive Mechanism (in law) ,No,,bt
+Asia-Pacific,Brunei Darussalam,Designation of the National Preventive Mechanism (in law) ,No,,bn
+Asia-Pacific,Cambodia,Designation of the National Preventive Mechanism (in law) ,Yes,2018.0,kh
+Asia-Pacific,China,Designation of the National Preventive Mechanism (in law) ,No,,cn
+Asia-Pacific,Cook Islands,Designation of the National Preventive Mechanism (in law) ,No,,ck
+Asia-Pacific,Fiji,Designation of the National Preventive Mechanism (in law) ,No,,fj
+Asia-Pacific,Democratic People's Republic of Korea,Designation of the National Preventive Mechanism (in law) ,No,,kp
+Asia-Pacific,India,Designation of the National Preventive Mechanism (in law) ,No,,in
+Asia-Pacific,Indonesia,Designation of the National Preventive Mechanism (in law) ,No,,id
+Asia-Pacific,Japan,Designation of the National Preventive Mechanism (in law) ,No,,jp
+Asia-Pacific,Kazakhstan,Designation of the National Preventive Mechanism (in law) ,Yes,2015.0,kz
+Asia-Pacific,Kiribati,Designation of the National Preventive Mechanism (in law) ,No,,ki
+Asia-Pacific,Kyrgyzstan,Designation of the National Preventive Mechanism (in law) ,Yes,2015.0,kg
+Asia-Pacific,Lao People's Democratic Republic,Designation of the National Preventive Mechanism (in law) ,No,,la
+Asia-Pacific,Marshall Islands,Designation of the National Preventive Mechanism (in law) ,No,,mh
+Asia-Pacific,Malaysia,Designation of the National Preventive Mechanism (in law) ,No,,my
+Asia-Pacific,Maldives,Designation of the National Preventive Mechanism (in law) ,Yes,2007.0,mv
+Asia-Pacific,Micronesia,Designation of the National Preventive Mechanism (in law) ,No,,fm
+Asia-Pacific,Mongolia,Designation of the National Preventive Mechanism (in law) ,Yes,2022.0,mn
+Asia-Pacific,Myanmar,Designation of the National Preventive Mechanism (in law) ,No,,mm
+Asia-Pacific,Nauru,Designation of the National Preventive Mechanism (in law) ,No,,nr
+Asia-Pacific,Nepal,Designation of the National Preventive Mechanism (in law) ,No,,np
+Asia-Pacific,New Zealand,Designation of the National Preventive Mechanism (in law) ,Yes,2007.0,nz
+Asia-Pacific,Niue,Designation of the National Preventive Mechanism (in law) ,No,,nu
+Asia-Pacific,Palau,Designation of the National Preventive Mechanism (in law) ,No,,pw
+Asia-Pacific,Papua New Guinea,Designation of the National Preventive Mechanism (in law) ,No,,pg
+Asia-Pacific,Pakistan,Designation of the National Preventive Mechanism (in law) ,No,,pk
+Asia-Pacific,Philippines,Designation of the National Preventive Mechanism (in law) ,No,,ph
+Asia-Pacific,Republic of Korea,Designation of the National Preventive Mechanism (in law) ,No,,kr
+Asia-Pacific,Samoa,Designation of the National Preventive Mechanism (in law) ,No,,ws
+Asia-Pacific,Solomon Islands,Designation of the National Preventive Mechanism (in law) ,No,,sb
+Asia-Pacific,Singapore,Designation of the National Preventive Mechanism (in law) ,No,,sg
+Asia-Pacific,Sri Lanka,Designation of the National Preventive Mechanism (in law) ,Yes,2019.0,lk
+Asia-Pacific,Tajikistan,Designation of the National Preventive Mechanism (in law) ,No,,tj
+Asia-Pacific,Thailand,Designation of the National Preventive Mechanism (in law) ,No,,th
+Asia-Pacific,Timor-Leste,Designation of the National Preventive Mechanism (in law) ,No,,tl
+Asia-Pacific,Tonga,Designation of the National Preventive Mechanism (in law) ,No,,to
+Asia-Pacific,Turkmenistan,Designation of the National Preventive Mechanism (in law) ,No,,tm
+Asia-Pacific,Tuvalu,Designation of the National Preventive Mechanism (in law) ,No,,tv
+Asia-Pacific,Uzbekistan,Designation of the National Preventive Mechanism (in law) ,No,,uz
+Asia-Pacific,Vanuatu,Designation of the National Preventive Mechanism (in law) ,No,,vu
+Asia-Pacific,Viet Nam,Designation of the National Preventive Mechanism (in law) ,No,,vn
+Americas,Antigua and Barbuda,Operationality of the National Preventive Mechanism ,,,ag
+Americas,Argentina,Operationality of the National Preventive Mechanism ,Yes,2018.0,ar
+Americas,Bahamas,Operationality of the National Preventive Mechanism ,,,bs
+Americas,Barbados,Operationality of the National Preventive Mechanism ,,,bb
+Americas,Belize,Operationality of the National Preventive Mechanism ,,,bz
+Americas,Bolivia,Operationality of the National Preventive Mechanism ,Yes,2016.0,bo
+Americas,Brazil,Operationality of the National Preventive Mechanism ,Yes,2016.0,br
+Americas,Canada,Operationality of the National Preventive Mechanism ,,,ca
+Americas,Chile,Operationality of the National Preventive Mechanism ,Yes,2020.0,cl
+Americas,Colombia,Operationality of the National Preventive Mechanism ,,,co
+Americas,Costa Rica,Operationality of the National Preventive Mechanism ,Yes,2009.0,cr
+Americas,Cuba,Operationality of the National Preventive Mechanism ,,,cu
+Americas,Dominica,Operationality of the National Preventive Mechanism ,,,dm
+Americas,Dominican Republic,Operationality of the National Preventive Mechanism ,,,do
+Americas,Ecuador,Operationality of the National Preventive Mechanism ,Yes,2012.0,ec
+Americas,El Salvador,Operationality of the National Preventive Mechanism ,,,sv
+Americas,Grenada,Operationality of the National Preventive Mechanism ,,,gd
+Americas,Guatemala,Operationality of the National Preventive Mechanism ,Yes,2014.0,gt
+Americas,Guyana,Operationality of the National Preventive Mechanism ,Yes,2012.0,gy
+Americas,Haiti,Operationality of the National Preventive Mechanism ,,,ht
+Americas,Honduras,Operationality of the National Preventive Mechanism ,Yes,2010.0,hn
+Americas,Jamaica,Operationality of the National Preventive Mechanism ,,,jm
+Americas,Mexico,Operationality of the National Preventive Mechanism ,Yes,2018.0,mx
+Americas,Nicaragua,Operationality of the National Preventive Mechanism ,Yes,2012.0,ni
+Americas,Panama,Operationality of the National Preventive Mechanism ,Yes,2018.0,pa
+Americas,Paraguay,Operationality of the National Preventive Mechanism ,Yes,2013.0,py
+Americas,Peru,Operationality of the National Preventive Mechanism ,Yes,2017.0,pe
+Americas,Saint Kitts and Nevis,Operationality of the National Preventive Mechanism ,,,kn
+Americas,Saint Lucia,Operationality of the National Preventive Mechanism ,,,lc
+Americas,Saint Vincent and the Grenadines,Operationality of the National Preventive Mechanism ,,,vc
+Americas,Suriname,Operationality of the National Preventive Mechanism ,,,sr
+Americas,Trinidad and Tobago,Operationality of the National Preventive Mechanism ,,,tt
+Americas,United States,Operationality of the National Preventive Mechanism ,,,us
+Americas,Uruguay,Operationality of the National Preventive Mechanism ,Yes,2013.0,uy
+Americas,Venezuela,Operationality of the National Preventive Mechanism ,,,ve
+Africa,Algeria,Operationality of the National Preventive Mechanism ,,,dz
+Africa,Angola,Operationality of the National Preventive Mechanism ,,,ao
+Africa,Benin,Operationality of the National Preventive Mechanism ,,,bj
+Africa,Botswana,Operationality of the National Preventive Mechanism ,,,bw
+Africa,Burkina Faso,Operationality of the National Preventive Mechanism ,Yes,2021.0,bf
+Africa,Burundi,Operationality of the National Preventive Mechanism ,,,bi
+Africa,Cabo Verde,Operationality of the National Preventive Mechanism ,Yes,2018.0,cv
+Africa,Cameroon,Operationality of the National Preventive Mechanism ,,,cm
+Africa,Central African Republic,Operationality of the National Preventive Mechanism ,,,cf
+Africa,Chad,Operationality of the National Preventive Mechanism ,,,td
+Africa,Comoros,Operationality of the National Preventive Mechanism ,,,km
+Africa,Congo,Operationality of the National Preventive Mechanism ,,,cg
+Africa,Cote d'Ivoire,Operationality of the National Preventive Mechanism ,,,ci
+Africa,Democratic Republic of the Congo,Operationality of the National Preventive Mechanism ,,,cd
+Africa,Djibouti,Operationality of the National Preventive Mechanism ,,,dj
+Africa,Equatorial Guinea,Operationality of the National Preventive Mechanism ,,,gq
+Africa,Eritrea,Operationality of the National Preventive Mechanism ,,,er
+Africa,Ethiopia,Operationality of the National Preventive Mechanism ,,,et
+Africa,Gabon,Operationality of the National Preventive Mechanism ,,,ga
+Africa,Gambia,Operationality of the National Preventive Mechanism ,,,gm
+Africa,Ghana,Operationality of the National Preventive Mechanism ,,,gh
+Africa,Guinea,Operationality of the National Preventive Mechanism ,,,gn
+Africa,Guinea-Bissau,Operationality of the National Preventive Mechanism ,,,gw
+Africa,Kenya,Operationality of the National Preventive Mechanism ,,,ke
+Africa,Lesotho,Operationality of the National Preventive Mechanism ,,,ls
+Africa,Liberia,Operationality of the National Preventive Mechanism ,,,lr
+Africa,Madagascar,Operationality of the National Preventive Mechanism ,Yes,2019.0,mg
+Africa,Malawi,Operationality of the National Preventive Mechanism ,,,mw
+Africa,Mali,Operationality of the National Preventive Mechanism ,Yes,2016.0,ml
+Africa,Mauritania,Operationality of the National Preventive Mechanism ,Yes,2016.0,mr
+Africa,Mozambique,Operationality of the National Preventive Mechanism ,No,,mz
+Africa,Namibia,Operationality of the National Preventive Mechanism ,,,na
+Africa,Niger,Operationality of the National Preventive Mechanism ,,,ne
+Africa,Nigeria,Operationality of the National Preventive Mechanism ,No,,ng
+Africa,Rwanda,Operationality of the National Preventive Mechanism ,Yes,2018.0,rw
+Africa,Sao Tome and Principe,Operationality of the National Preventive Mechanism ,,,st
+Africa,Senegal,Operationality of the National Preventive Mechanism ,Yes,2011.0,sn
+Africa,Seychelles,Operationality of the National Preventive Mechanism ,,,sc
+Africa,Sierra Leone,Operationality of the National Preventive Mechanism ,,,sl
+Africa,Somalia,Operationality of the National Preventive Mechanism ,,,so
+Africa,South Sudan,Operationality of the National Preventive Mechanism ,,,ss
+Africa,Sudan,Operationality of the National Preventive Mechanism ,,,sd
+Africa,Swaziland,Operationality of the National Preventive Mechanism ,,,sz
+Africa,Uganda,Operationality of the National Preventive Mechanism ,,,ug
+Africa,United Republic of Tanzania,Operationality of the National Preventive Mechanism ,,,tz
+Africa,Zambia,Operationality of the National Preventive Mechanism ,,,zm
+Africa,Zimbabwe,Operationality of the National Preventive Mechanism ,,,zw
+Africa,Mauritius,Operationality of the National Preventive Mechanism ,Yes,2014.0,mu
+Africa,South Africa,Operationality of the National Preventive Mechanism ,Yes,2019.0,za
+Africa,Togo,Operationality of the National Preventive Mechanism ,Yes,2019.0,tg
+Europe,Albania,Operationality of the National Preventive Mechanism ,Yes,2008.0,al
+Europe,Andorra,Operationality of the National Preventive Mechanism ,,,ad
+Europe,Austria,Operationality of the National Preventive Mechanism ,Yes,2012.0,at
+Europe,Armenia,Operationality of the National Preventive Mechanism ,Yes,2017.0,am
+Europe,Belarus,Operationality of the National Preventive Mechanism ,,,by
+Europe,Belgium,Operationality of the National Preventive Mechanism ,,,be
+Europe,Bulgaria,Operationality of the National Preventive Mechanism ,Yes,2012.0,bg
+Europe,Croatia,Operationality of the National Preventive Mechanism ,Yes,2012.0,hr
+Europe,Cyprus,Operationality of the National Preventive Mechanism ,Yes,2009.0,cy
+Europe,France,Operationality of the National Preventive Mechanism ,Yes,2008.0,fr
+Europe,Czech Republic,Operationality of the National Preventive Mechanism ,Yes,2006.0,cz
+Europe,Denmark,Operationality of the National Preventive Mechanism ,Yes,2009.0,dk
+Europe,Estonia,Operationality of the National Preventive Mechanism ,Yes,2007.0,ee
+Europe,Finland,Operationality of the National Preventive Mechanism ,Yes,2017.0,fi
+Europe,Georgia,Operationality of the National Preventive Mechanism ,Yes,2009.0,ge
+Europe,Germany,Operationality of the National Preventive Mechanism ,Yes,2010.0,de
+Europe,Greece,Operationality of the National Preventive Mechanism ,Yes,2016.0,gr
+Europe,Holy See,Operationality of the National Preventive Mechanism ,,,va
+Europe,Hungary,Operationality of the National Preventive Mechanism ,Yes,2015.0,hu
+Europe,Iceland,Operationality of the National Preventive Mechanism ,Yes,2018.0,is
+Europe,Italy,Operationality of the National Preventive Mechanism ,Yes,2016.0,it
+Europe,Ireland,Operationality of the National Preventive Mechanism ,,,ie
+Europe,Latvia,Operationality of the National Preventive Mechanism ,Yes,2018.0,lv
+Europe,Liechtenstein,Operationality of the National Preventive Mechanism ,Yes,2007.0,li
+Europe,Lithuania,Operationality of the National Preventive Mechanism ,Yes,2014.0,lt
+Europe,Luxembourg,Operationality of the National Preventive Mechanism ,Yes,2012.0,lu
+Europe,North Macedonia,Operationality of the National Preventive Mechanism ,Yes,2011.0,mk
+Europe,Romania,Operationality of the National Preventive Mechanism ,Yes,2014.0,ro
+Europe,San Marino,Operationality of the National Preventive Mechanism ,,,sm
+Europe,Serbia,Operationality of the National Preventive Mechanism ,Yes,2011.0,rs
+Europe,Slovakia,Operationality of the National Preventive Mechanism ,Yes,2024.0,sk
+Europe,Slovenia,Operationality of the National Preventive Mechanism ,Yes,2008.0,si
+Europe,Spain,Operationality of the National Preventive Mechanism ,Yes,2010.0,es
+Europe,Sweden,Operationality of the National Preventive Mechanism ,Yes,2011.0,se
+Europe,Switzerland,Operationality of the National Preventive Mechanism ,Yes,2009.0,ch
+Europe,United Kingdom,Operationality of the National Preventive Mechanism ,Yes,2009.0,gb
+Europe,Malta,Operationality of the National Preventive Mechanism ,Yes,2008.0,mt
+Europe,Monaco,Operationality of the National Preventive Mechanism ,,,mc
+Europe,Montenegro,Operationality of the National Preventive Mechanism ,Yes,2013.0,me
+Europe,Netherlands,Operationality of the National Preventive Mechanism ,Yes,2012.0,nl
+Europe,Norway,Operationality of the National Preventive Mechanism ,Yes,2014.0,no
+Europe,Poland,Operationality of the National Preventive Mechanism ,Yes,2010.0,pl
+Europe,Portugal,Operationality of the National Preventive Mechanism ,Yes,2012.0,pt
+Europe,Republic of Moldova,Operationality of the National Preventive Mechanism ,Yes,2014.0,md
+Europe,Russia,Operationality of the National Preventive Mechanism ,,,ru
+Europe,Turkey,Operationality of the National Preventive Mechanism ,Yes,2014.0,tr
+Europe,Ukraine,Operationality of the National Preventive Mechanism ,Yes,2012.0,ua
+Middle East,Bahrain,Operationality of the National Preventive Mechanism ,,,bh
+Middle East,Egypt,Operationality of the National Preventive Mechanism ,,,eg
+Middle East,Iran,Operationality of the National Preventive Mechanism ,,,ir
+Middle East,Iraq,Operationality of the National Preventive Mechanism ,,,iq
+Middle East,Israel,Operationality of the National Preventive Mechanism ,,,il
+Middle East,Jordan,Operationality of the National Preventive Mechanism ,,,jo
+Middle East,Kuwait,Operationality of the National Preventive Mechanism ,,,kw
+Middle East,Lebanon,Operationality of the National Preventive Mechanism ,Yes,2019.0,lb
+Middle East,Libya,Operationality of the National Preventive Mechanism ,,,ly
+Middle East,Morocco,Operationality of the National Preventive Mechanism ,Yes,2018.0,ma
+Middle East,State of Palestine,Operationality of the National Preventive Mechanism ,,,ps
+Middle East,Oman,Operationality of the National Preventive Mechanism ,,,om
+Middle East,Qatar,Operationality of the National Preventive Mechanism ,,,qa
+Middle East,Saudi Arabia,Operationality of the National Preventive Mechanism ,,,sa
+Middle East,Syria ,Operationality of the National Preventive Mechanism ,,,sy
+Middle East,Tunisia,Operationality of the National Preventive Mechanism ,Yes,2016.0,tn
+Middle East,United Arab Emirates,Operationality of the National Preventive Mechanism ,,,ae
+Middle East,Yemen,Operationality of the National Preventive Mechanism ,,,ye
+Asia-Pacific,Afghanistan,Operationality of the National Preventive Mechanism ,,,af
+Asia-Pacific,Australia,Operationality of the National Preventive Mechanism ,Yes,2019.0,au
+Asia-Pacific,Azerbaijan,Operationality of the National Preventive Mechanism ,Yes,2009.0,az
+Asia-Pacific,Bangladesh,Operationality of the National Preventive Mechanism ,,,bd
+Asia-Pacific,Bhutan,Operationality of the National Preventive Mechanism ,,,bt
+Asia-Pacific,Brunei Darussalam,Operationality of the National Preventive Mechanism ,,,bn
+Asia-Pacific,Cambodia,Operationality of the National Preventive Mechanism ,No,,kh
+Asia-Pacific,China,Operationality of the National Preventive Mechanism ,,,cn
+Asia-Pacific,Cook Islands,Operationality of the National Preventive Mechanism ,,,ck
+Asia-Pacific,Fiji,Operationality of the National Preventive Mechanism ,,,fj
+Asia-Pacific,Democratic People's Republic of Korea,Operationality of the National Preventive Mechanism ,,,kp
+Asia-Pacific,India,Operationality of the National Preventive Mechanism ,,,in
+Asia-Pacific,Indonesia,Operationality of the National Preventive Mechanism ,,,id
+Asia-Pacific,Japan,Operationality of the National Preventive Mechanism ,,,jp
+Asia-Pacific,Kazakhstan,Operationality of the National Preventive Mechanism ,Yes,2014.0,kz
+Asia-Pacific,Kiribati,Operationality of the National Preventive Mechanism ,,,ki
+Asia-Pacific,Kyrgyzstan,Operationality of the National Preventive Mechanism ,Yes,2014.0,kg
+Asia-Pacific,Lao People's Democratic Republic,Operationality of the National Preventive Mechanism ,,,la
+Asia-Pacific,Marshall Islands,Operationality of the National Preventive Mechanism ,,,mh
+Asia-Pacific,Malaysia,Operationality of the National Preventive Mechanism ,,,my
+Asia-Pacific,Maldives,Operationality of the National Preventive Mechanism ,Yes,2008.0,mv
+Asia-Pacific,Micronesia,Operationality of the National Preventive Mechanism ,,,fm
+Asia-Pacific,Mongolia,Operationality of the National Preventive Mechanism ,Yes,2020.0,mn
+Asia-Pacific,Myanmar,Operationality of the National Preventive Mechanism ,,,mm
+Asia-Pacific,Nauru,Operationality of the National Preventive Mechanism ,,,nr
+Asia-Pacific,Nepal,Operationality of the National Preventive Mechanism ,,,np
+Asia-Pacific,New Zealand,Operationality of the National Preventive Mechanism ,Yes,2007.0,nz
+Asia-Pacific,Niue,Operationality of the National Preventive Mechanism ,,,nu
+Asia-Pacific,Palau,Operationality of the National Preventive Mechanism ,,,pw
+Asia-Pacific,Papua New Guinea,Operationality of the National Preventive Mechanism ,,,pg
+Asia-Pacific,Pakistan,Operationality of the National Preventive Mechanism ,,,pk
+Asia-Pacific,Philippines,Operationality of the National Preventive Mechanism ,,,ph
+Asia-Pacific,Republic of Korea,Operationality of the National Preventive Mechanism ,,,kr
+Asia-Pacific,Samoa,Operationality of the National Preventive Mechanism ,,,ws
+Asia-Pacific,Solomon Islands,Operationality of the National Preventive Mechanism ,,,sb
+Asia-Pacific,Singapore,Operationality of the National Preventive Mechanism ,,,sg
+Asia-Pacific,Sri Lanka,Operationality of the National Preventive Mechanism ,Yes,2022.0,lk
+Asia-Pacific,Tajikistan,Operationality of the National Preventive Mechanism ,,,tj
+Asia-Pacific,Thailand,Operationality of the National Preventive Mechanism ,,,th
+Asia-Pacific,Timor-Leste,Operationality of the National Preventive Mechanism ,,,tl
+Asia-Pacific,Tonga,Operationality of the National Preventive Mechanism ,,,to
+Asia-Pacific,Turkmenistan,Operationality of the National Preventive Mechanism ,,,tm
+Asia-Pacific,Tuvalu,Operationality of the National Preventive Mechanism ,,,tv
+Asia-Pacific,Uzbekistan,Operationality of the National Preventive Mechanism ,,,uz
+Asia-Pacific,Vanuatu,Operationality of the National Preventive Mechanism ,,,vu
+Asia-Pacific,Viet Nam,Operationality of the National Preventive Mechanism ,,,vn
+Americas,Antigua and Barbuda,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ag
+Americas,Argentina,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,ar
+Americas,Bahamas,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bs
+Americas,Barbados,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bb
+Americas,Belize,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bz
+Americas,Bolivia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2000.0,bo
+Americas,Brazil,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,br
+Americas,Canada,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,ca
+Americas,Chile,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2012.0,cl
+Americas,Colombia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2001.0,co
+Americas,Costa Rica,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,cr
+Americas,Cuba,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,cu
+Americas,Dominica,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,dm
+Americas,Dominican Republic,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,do
+Americas,Ecuador,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,ec
+Americas,El Salvador,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2006.0,sv
+Americas,Grenada,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,gd
+Americas,Guatemala,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2000.0,gt
+Americas,Guyana,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,gy
+Americas,Haiti,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2013.0,ht
+Americas,Honduras,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2019.0,hn
+Americas,Jamaica,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,jm
+Americas,Mexico,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,mx
+Americas,Nicaragua,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ni
+Americas,Panama,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,pa
+Americas,Paraguay,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,py
+Americas,Peru,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,pe
+Americas,Saint Kitts and Nevis,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,kn
+Americas,Saint Lucia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,lc
+Americas,Saint Vincent and the Grenadines,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,vc
+Americas,Suriname,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sr
+Americas,Trinidad and Tobago,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,tt
+Americas,United States,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,us
+Americas,Uruguay,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2016.0,uy
+Americas,Venezuela,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ve
+Africa,Algeria,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,dz
+Africa,Angola,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ao
+Africa,Benin,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2022.0,bj
+Africa,Botswana,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bw
+Africa,Burkina Faso,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bf
+Africa,Burundi,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2021.0,bi
+Africa,Cabo Verde,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,cv
+Africa,Cameroon,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2010.0,cm
+Africa,Central African Republic,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,cf
+Africa,Chad,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,td
+Africa,Comoros,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,km
+Africa,Congo,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,cg
+Africa,Cote d'Ivoire,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2020.0,ci
+Africa,Democratic Republic of the Congo,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2018.0,cd
+Africa,Djibouti,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,dj
+Africa,Equatorial Guinea,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,gq
+Africa,Eritrea,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,er
+Africa,Ethiopia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2021.0,et
+Africa,Gabon,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ga
+Africa,Gambia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2022.0,gm
+Africa,Ghana,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2001.0,gh
+Africa,Guinea,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,gn
+Africa,Guinea-Bissau,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,gw
+Africa,Kenya,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2005.0,ke
+Africa,Lesotho,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ls
+Africa,Liberia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2017.0,lr
+Africa,Madagascar,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2019.0,mg
+Africa,Malawi,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2000.0,mw
+Africa,Mali,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2022.0,ml
+Africa,Mauritania,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2020.0,mr
+Africa,Mozambique,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mz
+Africa,Namibia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2003.0,na
+Africa,Niger,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ne
+Africa,Nigeria,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2011.0,ng
+Africa,Rwanda,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2001.0,rw
+Africa,Sao Tome and Principe,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,st
+Africa,Senegal,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sn
+Africa,Seychelles,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sc
+Africa,Sierra Leone,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2011.0,sl
+Africa,Somalia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,so
+Africa,South Sudan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ss
+Africa,Sudan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sd
+Africa,Swaziland,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sz
+Africa,Uganda,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2000.0,ug
+Africa,United Republic of Tanzania,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2003.0,tz
+Africa,Zambia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2003.0,zm
+Africa,Zimbabwe,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2016.0,zw
+Africa,Mauritius,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mu
+Africa,South Africa,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,za
+Africa,Togo,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,tg
+Europe,Albania,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2003.0,al
+Europe,Andorra,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ad
+Europe,Austria,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2022.0,at
+Europe,Armenia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2006.0,am
+Europe,Belarus,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,by
+Europe,Belgium,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,be
+Europe,Bulgaria,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2011.0,bg
+Europe,Croatia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2008.0,hr
+Europe,Cyprus,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2022.0,cy
+Europe,France,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,fr
+Europe,Czech Republic,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,cz
+Europe,Denmark,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2007.0,dk
+Europe,Estonia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2020.0,ee
+Europe,Finland,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2014.0,fi
+Europe,Georgia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2007.0,ge
+Europe,Germany,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2001.0,de
+Europe,Greece,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2000.0,gr
+Europe,Holy See,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,va
+Europe,Hungary,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,hu
+Europe,Iceland,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,is
+Europe,Italy,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,it
+Europe,Ireland,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2015.0,ie
+Europe,Latvia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2015.0,lv
+Europe,Liechtenstein,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,li
+Europe,Lithuania,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2017.0,lt
+Europe,Luxembourg,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2001.0,lu
+Europe,North Macedonia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mk
+Europe,Romania,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ro
+Europe,San Marino,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sm
+Europe,Serbia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2010.0,rs
+Europe,Slovakia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sk
+Europe,Slovenia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2020.0,si
+Europe,Spain,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2000.0,es
+Europe,Sweden,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,se
+Europe,Switzerland,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ch
+Europe,United Kingdom,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2006.0,gb
+Europe,Malta,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mt
+Europe,Monaco,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mc
+Europe,Montenegro,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,me
+Europe,Netherlands,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2014.0,nl
+Europe,Norway,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2017.0,no
+Europe,Poland,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,pl
+Europe,Portugal,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,pt
+Europe,Republic of Moldova,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2018.0,md
+Europe,Russia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ru
+Europe,Turkey,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,tr
+Europe,Ukraine,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2009.0,ua
+Middle East,Bahrain,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bh
+Middle East,Egypt,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2006.0,eg
+Middle East,Iran,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ir
+Middle East,Iraq,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2021.0,iq
+Middle East,Israel,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,il
+Middle East,Jordan,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2007.0,jo
+Middle East,Kuwait,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,kw
+Middle East,Lebanon,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,lb
+Middle East,Libya,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ly
+Middle East,Morocco,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,ma
+Middle East,State of Palestine,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2005.0,ps
+Middle East,Oman,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,om
+Middle East,Qatar,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2009.0,qa
+Middle East,Saudi Arabia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sa
+Middle East,Syria ,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sy
+Middle East,Tunisia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,tn
+Middle East,United Arab Emirates,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ae
+Middle East,Yemen,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ye
+Asia-Pacific,Afghanistan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,af
+Asia-Pacific,Australia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,au
+Asia-Pacific,Azerbaijan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,az
+Asia-Pacific,Bangladesh,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bd
+Asia-Pacific,Bhutan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bt
+Asia-Pacific,Brunei Darussalam,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,bn
+Asia-Pacific,Cambodia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,kh
+Asia-Pacific,China,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,cn
+Asia-Pacific,Cook Islands,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ck
+Asia-Pacific,Fiji,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,fj
+Asia-Pacific,Democratic People's Republic of Korea,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2004.0,kp
+Asia-Pacific,India,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,in
+Asia-Pacific,Indonesia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2000.0,id
+Asia-Pacific,Japan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,jp
+Asia-Pacific,Kazakhstan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,kz
+Asia-Pacific,Kiribati,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,ki
+Asia-Pacific,Kyrgyzstan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,kg
+Asia-Pacific,Lao People's Democratic Republic,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,la
+Asia-Pacific,Marshall Islands,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mh
+Asia-Pacific,Malaysia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2002.0,my
+Asia-Pacific,Micronesia,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,fm
+Asia-Pacific,Maldives,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mv
+Asia-Pacific,Mongolia,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2002.0,mn
+Asia-Pacific,Myanmar,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,mm
+Asia-Pacific,Nauru,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,nr
+Asia-Pacific,Nepal,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2001.0,np
+Asia-Pacific,New Zealand,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,nz
+Asia-Pacific,Niue,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,nu
+Asia-Pacific,Palau,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,pw
+Asia-Pacific,Papua New Guinea,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,pg
+Asia-Pacific,Pakistan,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2024.0,pk
+Asia-Pacific,Philippines,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,1999.0,ph
+Asia-Pacific,Republic of Korea,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2004.0,kr
+Asia-Pacific,Samoa,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2016.0,ws
+Asia-Pacific,Solomon Islands,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sb
+Asia-Pacific,Singapore,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,sg
+Asia-Pacific,Sri Lanka,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2024.0,lk
+Asia-Pacific,Tajikistan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,tj
+Asia-Pacific,Thailand,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2020.0,th
+Asia-Pacific,Timor-Leste,Existence of National Human Rights Institution that fully complies with Paris Principles,Yes,2008.0,tl
+Asia-Pacific,Tonga,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,to
+Asia-Pacific,Turkmenistan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,tm
+Asia-Pacific,Tuvalu,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,tv
+Asia-Pacific,Uzbekistan,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,uz
+Asia-Pacific,Vanuatu,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,vu
+Asia-Pacific,Viet Nam,Existence of National Human Rights Institution that fully complies with Paris Principles,No,,vn

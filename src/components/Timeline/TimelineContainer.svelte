@@ -41,6 +41,9 @@
     </p>
   
     <IndicatorSelector on:select={handleIndicatorSelect} />
+    <p class="interaction-note">
+      Drag the brush below to explore details about countries that implemented the selected indicator.
+    </p>
   
     {#if selectedIndicator}
       <div class="beeswarm-container">
@@ -100,5 +103,12 @@
     .text-label.partial {
       color: var(--color-primary-light);
       font-weight: bold;
+    }
+
+    .interaction-note {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+      
     }
   </style>

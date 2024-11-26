@@ -1,0 +1,61 @@
+:root {
+    /* APT Colors */
+    --color-primary-dark: #285391;
+    --color-primary: #3F84E6;
+    --color-primary-light: #8CB5F0;
+    --color-primary-lighter: #C5DAF8;
+    --color-primary-lightest: #D9E6FA;
+    --color-primary-faintest: #F3F8FE;
+    --color-error: #E36360;
+    --color-error-light: #F1B5B5;
+    --color-neutral: #F9FAFC;
+  }
+
+  .tooltip-content {
+    width: 100%;
+}
+
+.section {
+    padding: 15px 20px;
+    text-align: center;
+}
+
+.divider {
+    height: 1px;
+    background-color: #ccc;
+    margin: 0;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.country-flag {
+    width: 140px;
+    height: auto;
+    margin: 10px 0;
+}
+
+.label {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.region-value {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.indicator {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.date-value {
+    font-size: 32px;
+    font-weight: bold;
+}

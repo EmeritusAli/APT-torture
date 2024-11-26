@@ -9,13 +9,16 @@
 
     let data = [];
     let dataLoaded = false;
+    const basePath = '/APT-torture';
+    const dataUrl = `${import.meta.env.BASE_URL}data/apt-data_updated.csv`;
+
 
     // Data loading
     
     onMount(async () => {
         try {
             // Load and process your data here
-            data = await d3.csv('/src/lib/data/apt-data_updated.csv');
+            data = await d3.csv(dataUrl);
             dataLoaded = true;
             console.log('Data loaded:', data);
             

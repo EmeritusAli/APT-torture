@@ -5,7 +5,7 @@
   <footer>
     <div class="footer-content">
         <a href="https://www.apt.ch" target="_blank" rel="noopener noreferrer" class="logo-link">
-          <img src="/images/apt_logo.jpg" alt="Association for the Prevention of Torture Logo" class="logo" />
+          <img src="/APT-torture/images/apt_logo.jpg" alt="Association for the Prevention of Torture Logo" class="logo" />
         </a>
 
         <div class="author">

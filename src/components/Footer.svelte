@@ -37,11 +37,20 @@
       align-items: center;
       padding: 0 1rem;
     }
+
+    p {
+      font-size: 1.1rem;
+      color: #666;
+    }
+
+
   
     .logo-link {
       flex: 0 0 auto;
       display: flex;
       align-items: center;
+      text-decoration: none;
+
     }
 
     .logo {
@@ -65,7 +74,7 @@
   box-shadow: inset 0 -5px 0 0 var(--color-primary);
   transition: box-shadow 0.2s ease-out;
 }
-a:hover, a:focus {
+.author a:hover, a:focus {
   box-shadow: inset 0 -18px 0 0 rgba(74, 99, 221, 0.7);
   transition-timing-function: ease-in;
 }
@@ -77,7 +86,7 @@ a:hover, a:focus {
     }
 
     .logo {
-      height: 30px;
+      height: 40px;
     }
   }
   </style>

@@ -7,7 +7,6 @@
     let svg;
     let width;
     let height;
-    let tooltipStatus;
 
 
     $: {
@@ -113,7 +112,7 @@
             .attr("transform", d => `translate(${d.x},${d.y})`);
 
         setTimeout(() => {
-            simulation.alpha(0.1);
+            simulation.stop();
         }, 1000 + processedData.length * 50);
 
         circles.append("circle")
@@ -161,6 +160,7 @@
                     <div class="label">Region</div>
                     <div class="region-value">${d.region}</div>
                     <div class="indicator">${d.indicator}</div>
+                    <div class="tooltip-status">${d.value === 'Yes' ? "Fully implemented" : 'Partially implemented'}</div>
                     <div class="date-value">${Math.floor(d.date)}</div>
                 </div>
             </div>

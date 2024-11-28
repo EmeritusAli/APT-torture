@@ -59,3 +59,14 @@
     font-size: 32px;
     font-weight: bold;
 }
+
+/* create background for tool-status */
+
+.tooltip-status {
+  background: var(--tooltip-color, var(--color-primary-lightest));
+  color: white;
+  display: inline-block;
+  max-width: 200px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}

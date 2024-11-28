@@ -268,6 +268,7 @@
     transition: opacity 0.2s ease-in-out;
     border-top: 25px solid var(--tooltip-color, var(--color-primary-lightest));
     max-width: 320px;
+    max-height: 450px;
 }
 
 

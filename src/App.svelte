@@ -1,6 +1,7 @@
 <script>
     import Header from './components/Header.svelte';
     import Footer from './components/Footer.svelte';
+    import Methodology from './components/Methodology.svelte';
     import TimelineContainer from './components/Timeline/TimelineContainer.svelte';
     import IndicatorView from './components/Indicators/IndicatorView.svelte';
     
@@ -48,6 +49,10 @@
         {#if data}
             <IndicatorView {data} />
         {/if}
+        </section>
+
+        <section>
+            <Methodology />
         </section>
     </div>
     </main>

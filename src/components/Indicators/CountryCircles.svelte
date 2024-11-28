@@ -160,7 +160,7 @@
                     <div class="label">Region</div>
                     <div class="region-value">${d.region}</div>
                     <div class="indicator">${d.indicator}</div>
-                    <div class="tooltip-status">${d.value === 'Yes' ? "Fully implemented" : 'Partially implemented'}</div>
+                    <div class="tooltip-status">${d.value === 'Yes' ? "Full Implemention" : 'Partial Implemention'}</div>
                     <div class="date-value">${Math.floor(d.date)}</div>
                 </div>
             </div>
@@ -267,7 +267,7 @@
     z-index: 10;
     transition: opacity 0.2s ease-in-out;
     border-top: 25px solid var(--tooltip-color, var(--color-primary-lightest));
-    max-width: 300px;
+    max-width: 320px;
 }
 
 

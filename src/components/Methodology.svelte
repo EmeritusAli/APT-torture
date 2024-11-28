@@ -16,32 +16,32 @@
             description: "Indicates whether the country has formally ratified the UN Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment."
         },
         {
-            title: "Adoption of the Optional Protocol (OPCAT)",
+            title: "Ratification of Optional Protocol (OPCAT)",
             description: "Reflects whether the country has adopted the OPCAT, a treaty that establishes a system for regular independent visits to places of detention."
         },
         {
-            title: "Establishment of a National Preventive Mechanism (NPM)",
-            description: "Indicates if the country has set up an independent mechanism to monitor detention facilities."
+            title: "Submission of initial report to CAT",
+            description: "Indicates whether the country has submitted its first report to the Committee Against Torture (CAT), as required under the UN Convention against Torture."
+        },
+        {
+            title: "Prohibition of torture in the constitution",
+            description: "Shows whether the country's constitution explicitly prohibits torture."
         },
         {
             title: "Criminalisation of torture under domestic law",
             description: "Indicates whether torture is explicitly criminalized in national legislation."
         },
         {
-            title: "Independent investigative mechanisms for torture allegations",
-            description: "Reflects whether the country has mechanisms in place to independently investigate allegations of torture."
+            title: "Designation of the National Preventive Mechanism (in law)",
+            description: "Reflects whether the country has designated a National Preventive Mechanism (NPM) in its legal framework to monitor places of detention."
         },
         {
-            title: "Procedures for complaint and protection of victims",
-            description: "Indicates whether mechanisms exist for victims to report and seek protection from torture."
+            title: "Operationality of the National Preventive Mechanism",
+            description: "Indicates whether the NPM is operational and performing its intended functions."
         },
         {
-            title: "Procedures for monitoring and visiting places of detention",
-            description: "Indicates if the country has procedures for regular monitoring of detention facilities."
-        },
-        {
-            title: "Training and capacity-building of relevant authorities",
-            description: "Indicates whether training programs for law enforcement, military personnel, and other relevant authorities include torture prevention measures."
+            title: "Existence of National Human Rights Institution that fully complies with Paris Principles",
+            description: "Indicates whether the country has a National Human Rights Institution (NHRI) that meets the standards set by the Paris Principles."
         }
     ];
 
@@ -53,6 +53,10 @@
         {
             term: "Partial Implementation ('Partially')",
             description: "Reflects that the country has taken steps toward adopting the measure but has not fully met the criteria."
+        },
+        {
+            term: "Torture",
+            description: "The intentional infliction of severe physical or mental pain or suffering for purposes such as obtaining information, punishment, intimidation, or discrimination, often conducted by or with the consent of public officials."
         }
     ];
 </script>

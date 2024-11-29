@@ -1,5 +1,6 @@
 <script>
     import { createEventDispatcher, onMount } from 'svelte';
+    import { selectedIndicatorStore } from '../../stores';
     const dispatch = createEventDispatcher();
   
     export let indicators = [
@@ -13,21 +14,25 @@
         "Existence of National Human Rights Institution that fully complies with Paris Principles"
     ].map(i => i.trim());
   
-    let selectedIndicator = indicators[0];
+    $: if ($selectedIndicatorStore) {
+        // When store value changes, dispatch the event
+        dispatch('select', { indicator: $selectedIndicatorStore });
+    }
     
     onMount(() => {
-        dispatch('select', { indicator: selectedIndicator });
+      if (!$selectedIndicatorStore) {
+            selectedIndicatorStore.set(indicators[0]);
+        }
     });
   
     function handleSelect(event) {
-        selectedIndicator = event.target.value;
-        dispatch('select', { indicator: selectedIndicator });
+        selectedIndicatorStore.set(event.target.value);
     }
 </script>
 
 <div class="selector">
     <label for="indicator">Select Indicator:</label>
-    <select id="indicator" value={selectedIndicator} on:change={handleSelect}>
+    <select id="indicator" value={$selectedIndicatorStore} on:change={handleSelect}>
         {#each indicators as indicator}
             <option value={indicator}>{indicator}</option>
         {/each}

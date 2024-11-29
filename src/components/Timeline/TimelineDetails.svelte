@@ -17,10 +17,12 @@
               {#each regionEvents as event}
                 <li>
                   <span class="country">{event.country}</span>
-                  <span class="indicator">{event.indicator}</span>
-                  <span class="status" class:partial={event.value === 'Partially'}>
-                    {event.value === 'Yes' ? 'Full Implementation' : 'Partial Implementation'}
-                  </span>
+                  <!-- <span class="indicator">{event.indicator}</span> -->
+                   {#if event.indicator === 'Criminalisation of torture under domestic law'}
+                      <span class="status" class:partial={event.value === 'Partially'}>
+                        {event.value === 'Yes' ? 'Full Implementation' : 'Partial Implementation'}
+                      </span>
+                    {/if}
                 </li>
               {/each}
             </ul>
@@ -60,7 +62,7 @@
     .country-grid li {
       background-color: white;
       border-radius: 4px;
-      padding: 0.8rem;
+      padding: 0.4rem 0.4rem;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -87,7 +89,7 @@
   
     li {
       margin-bottom: 0.5rem;
-      padding: 0.8rem;
+      padding: 0.1rem;
       background-color: white;
       border-radius: 4px;
       display: flex;

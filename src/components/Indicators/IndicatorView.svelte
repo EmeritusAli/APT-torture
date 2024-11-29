@@ -2,18 +2,19 @@
     import IndicatorSelector from './IndicatorSelector.svelte';
     import CountryCircles from './CountryCircles.svelte';
     import RegionalBreakdown from './RegionalBreakdown.svelte';
+    import { selectedIndicatorStore } from '../../stores';
+
     import * as d3 from 'd3';
 
     export let data;
 
 
-    let selectedIndicator;
     
     // Process data when indicator changes
-    $: processedData = selectedIndicator && data? data
+    $: processedData = $selectedIndicatorStore && data? data
     .filter(d => {
             const currentIndicator = d.Indicator.trim();
-            const selected = selectedIndicator.trim();
+            const selected = $selectedIndicatorStore.trim();
         console.log('Filtering:', {
                 currentIndicator,
                 selectedIndicator: selected,
@@ -38,14 +39,14 @@
         total: processedData.length,
         implemented: processedData.filter(d => d.value === 'Yes').length,
         partial: processedData.filter(d => d.value === 'Partially').length,
-        percentage: selectedIndicator ? 
-        ((processedData.length / data.filter(d => d.Indicator.trim() === selectedIndicator.trim()).length) * 100).toFixed(1) 
+        percentage: $selectedIndicatorStore ? 
+        ((processedData.length / data.filter(d => d.Indicator.trim() === $selectedIndicatorStore.trim()).length) * 100).toFixed(1) 
         : '0.0'
     };
 
     // Group data by region including all values for the selected indicator
     $: regionalData = d3.group(
-            data.filter(d => d.Indicator.trim() === selectedIndicator?.trim()), 
+            data.filter(d => d.Indicator.trim() === $selectedIndicatorStore), 
             d => d.Region
         );
 
@@ -53,7 +54,7 @@
     $: processedRegionalData = d3.group(processedData, d => d.region);
 
     function handleIndicatorSelect(event) {
-        selectedIndicator = event.detail.indicator;
+        selectedIndicatorStore.set(event.detail.indicator);
     }
 </script>
 
@@ -67,7 +68,7 @@
         <IndicatorSelector on:select={handleIndicatorSelect}/>
     </div>
 
-    {#if selectedIndicator}
+    {#if $selectedIndicatorStore}
         <div class="global-stats">
             <h4>Global Implementation</h4>
             <div class="stats-number">

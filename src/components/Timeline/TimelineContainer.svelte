@@ -2,10 +2,10 @@
      import Beeswarm from './Beeswarm.svelte';
     import TimelineDetails from './TimelineDetails.svelte';
     import IndicatorSelector from '../Indicators/IndicatorSelector.svelte';
+    import { selectedIndicatorStore } from '../../stores';
     
     export let data;
     
-    let selectedIndicator = "Ratification of the UN Convention against Torture"; // default
     let selectedYear = null;
     let selectedEvents = [];
 
@@ -20,7 +20,7 @@
     })).filter(d => d.value === 'Yes' || d.value === 'Partially');
     
     function handleIndicatorSelect(event) {
-        selectedIndicator = event.detail.indicator;
+        selectedIndicatorStore.set(event.detail.indicator);
         selectedYear = null;
         selectedEvents = [];
     }
@@ -42,14 +42,14 @@
   
     <IndicatorSelector on:select={handleIndicatorSelect} />
     <p class="interaction-note">
-      Drag the brush below or click on any of the circle to explore details about countries that implemented the selected indicator.
+      Drag the rectangle below or click on any of the circle to explore details about countries that implemented the selected indicator.
     </p>
   
-    {#if selectedIndicator}
+    {#if $selectedIndicatorStore}
       <div class="beeswarm-container">
         <Beeswarm 
           data={processedData}
-          {selectedIndicator}
+          selectedIndicator = {$selectedIndicatorStore}
           on:yearSelect={handleYearSelect}
         />
       </div>

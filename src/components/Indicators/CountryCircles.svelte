@@ -40,7 +40,6 @@
         };
 
         const uniqueRegions = [...new Set(processedData.map(d => d.region))];
-        console.log("Unique Regions:", uniqueRegions);
 
         const centers = {};
         uniqueRegions.forEach((region, i) => {
@@ -119,7 +118,7 @@
             .attr("r", 0)
             .attr("fill", "white")
             .attr("stroke", d => d.value === 'Yes' ? 'var(--color-primary)' : 'var(--color-primary-light)')
-            .attr("stroke-width", 3)
+            .attr("stroke-width", 1)
             .transition()
             .duration(500)
             .delay((d, i) => i * 50)

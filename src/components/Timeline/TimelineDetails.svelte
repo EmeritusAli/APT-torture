@@ -1,4 +1,5 @@
 <script>
+  import { selectedIndicatorStore } from '../../stores';
     import * as d3 from 'd3';
     export let events = [];
     export let year = null;
@@ -8,7 +9,7 @@
   
   {#if year && events.length > 0}
     <div class="timeline-details">
-      <h3>{year} Milestones</h3>
+      <h3>Countries Implementing {$selectedIndicatorStore} in {year}</h3>
       <div class="events-grid">
         {#each [...groupedEvents] as [region, regionEvents]}
           <div class="region-group">

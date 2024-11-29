@@ -143,6 +143,9 @@
         circles
         .on("mouseover", (event, d) => {
         tooltip.style("--tooltip-color", d.value === 'Yes' ? 'var(--color-primary)' : 'var(--color-primary-light)');
+        const implementationStatus = d.indicator === "Criminalisation of torture under domestic law" 
+            ? `<div class="tooltip-status">${d.value === 'Yes' ? 'Full Implementation' : 'Partial Implementation'}</div>`
+            : '';
         tooltip.html(`
             <div class="tooltip-content">
                 <div class="section">
@@ -159,7 +162,7 @@
                     <div class="label">Region</div>
                     <div class="region-value">${d.region}</div>
                     <div class="indicator">${d.indicator}</div>
-                    <div class="tooltip-status">${d.value === 'Yes' ? "Full Implemention" : 'Partial Implemention'}</div>
+                     ${implementationStatus}
                     <div class="date-value">${Math.floor(d.date)}</div>
                 </div>
             </div>
@@ -275,6 +278,66 @@
 .tooltip.hidden {
     opacity: 0;
     pointer-events: none;
+}
+
+ :global(.tooltip-content) {
+    width: 100%;
+}
+
+:global(.section) {
+    padding: 15px 20px;
+    text-align: center;
+}
+
+:global(.divider) {
+    height: 1px;
+    background-color: #ccc;
+    margin: 0;
+}
+
+:global(.title) {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+:global(.country-flag) {
+    width: 140px;
+    height: auto;
+    margin: 10px 0;
+}
+
+:global(.label) {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+:global(.region-value) {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+:global(.indicator) {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+:global(.date-value) {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* create background for tool-status */
+
+:global(.tooltip-status) {
+  background: var(--tooltip-color, var(--color-primary-lightest));
+  color: white;
+  display: inline-block;
+  max-width: 200px;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
    

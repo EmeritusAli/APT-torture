@@ -233,7 +233,7 @@
         border: 1px solid #ccc;
         border-radius: 4px;
         padding: 8px;
-        font-size: 12px;
+        font-size: 1.2rem;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         color: var(--color-primary-dark);
     }

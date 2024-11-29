@@ -10,6 +10,7 @@
     let width;
     let height;
     let currentBrush = null; // Keep track of brush instance
+    let tooltip;
 
 
     $: filteredData = data
@@ -40,6 +41,16 @@
         const chart = d3.select(svg)
             .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // initialize tooltip
+        if (!tooltip) {
+            tooltip = d3.select('body')
+                .append('div')
+                .attr('class', 'timeline-tooltip')
+                .style('opacity', 0)
+                .style('position', 'absolute')
+                .style('pointer-events', 'none');
+        }
 
         const minYear = +d3.min(filteredData, d => d.year);
         const maxYear = +d3.max(filteredData, d => d.year);
@@ -89,7 +100,49 @@
             .duration(1500)
             .ease(d3.easeBounceOut )
             .attr("cy", d => d.y)
-            .attr("r", 5);  
+            .attr("r", 5)
+            .on("end", function(){
+                d3.select(this)
+                    .on("mouseover",showTooltip)
+                    .on("mousemove",moveTooltip)
+                    .on("mouseout",hideTooltip)
+                    .on("click", handleCirlceClick);
+            });
+
+        // show tooltip
+        function showTooltip(event, d) {
+        tooltip.transition()
+            .duration(200)
+            .style("opacity", 1);
+        
+        tooltip.html(`
+            <strong>${d.country}</strong><br/>
+            <p class=timeline-region>${d.region}</p>
+        `)
+        .style("left", (event.pageX + 10) + "px")
+        .style("top", (event.pageY - 28) + "px");
+        };
+
+        function moveTooltip(event) {
+            tooltip.style("left", (event.pageX + 10) + "px")
+                   .style("top", (event.pageY - 28) + "px");
+        }
+
+        function hideTooltip() {
+            tooltip.transition()
+                .duration(500)
+                .style("opacity", 0);
+        };
+
+
+        // Handle circle click
+        function handleCirlceClick(event, d) {
+            const yearWidth = xScale(new Date(1985, 0)) - xScale(new Date(1984, 0));
+            const circleX = d.fx;
+
+            // move brush to the clicked circle
+            currentBrush.move(brushGroup, [circleX - yearWidth / 2, circleX + yearWidth / 2]);
+        }
 
      // x-axis
      const startYear =  1984;
@@ -173,6 +226,21 @@
     svg {
         width: 100%;
         height: 100%;
+    }
+
+    :global(.timeline-tooltip) {
+        background-color: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 8px;
+        font-size: 12px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        color: var(--color-primary-dark);
+    }
+
+    :global(.timeline-region) {
+        font-size: 0.8rem;
+        color: #666;
     }
 
     :global(.brush .selection) {

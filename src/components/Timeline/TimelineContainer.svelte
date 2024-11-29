@@ -42,7 +42,7 @@
   
     <IndicatorSelector on:select={handleIndicatorSelect} />
     <p class="interaction-note">
-      Drag the brush below to explore details about countries that implemented the selected indicator.
+      Drag the brush below or click on any of the circle to explore details about countries that implemented the selected indicator.
     </p>
   
     {#if selectedIndicator}

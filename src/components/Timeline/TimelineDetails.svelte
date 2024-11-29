@@ -102,9 +102,5 @@
       
     }
   
-    .indicator {
-      font-size: 0.8rem;
-      color: #666;
-      margin: 0.2rem 0;
-    }
+    
   </style>
